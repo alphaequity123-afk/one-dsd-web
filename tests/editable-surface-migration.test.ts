@@ -43,7 +43,8 @@ describe("governed editable surface migration", () => {
     const addedPracticeKeys = ["handoffTitle","handoffBody","handoffUseLabel","draftSourceSummary","draftPreparedPrefix","draftOwnershipBody"];
     const forwardValues: Record<string, string[]> = {
       // The shared header now includes the approved Amplify Equity navigation link.
-      "site.header": ["primaryNavigation"],
+      // ea5a5be (September 25, 2026, "Remove Program from People, Access and Culture name") shortened the header program name.
+      "site.header": ["primaryNavigation","programName"],
       "learn.hub": ["cultureIds","interculturalIds","accessIds","structuralIds","partnershipIds","facilitationIds"],
       "amplify.materials": ["navigation"],
       "amplify.home": ["intro","navigation"],

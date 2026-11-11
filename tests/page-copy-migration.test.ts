@@ -25,6 +25,9 @@ const migration = trustedReleaseMigration;
 
 const historicalS1HomeCopy = {
   ...STATIC_HOME_COPY,
+  // The September 25 name change dropped "Program"; the S1 release keeps the name it was published with.
+  heroKicker: "One DHS People, Access and Culture Program",
+  headlineLine3: "Program",
   // The September 5 introduction remains historical after the owner's homepage revision.
   aboutLabel: "What this program is.",
   aboutText: "This is an independently managed, internal-purpose resource for DHS staff. It is not connected to DHS information technology, case, or personnel systems. Its guidance supports knowledge work and does not replace policy, legal advice, formal processes, or decisions made by responsible DHS offices. Authority labels show what each item can and cannot establish.",
@@ -42,6 +45,8 @@ const historicalS1HomeCopy = {
 
 const historicalS1FooterCopy = {
   ...STATIC_FOOTER_COPY,
+  // The S1 footer was published under the earlier program name.
+  identityKicker: "One DHS People, Access and Culture Program",
   // The plain-language footer wording came after the S1 release; the release text stays historical.
   identityText: "This independently managed, internal-purpose resource is built for DHS staff. It is not connected to DHS information technology, case, or personnel systems. Its guidance supports knowledge work and does not replace policy, legal advice, formal processes, or decisions made by responsible DHS offices. Authority labels show what each item can and cannot establish.",
   privacyText: "Please do not enter case, medical, personnel, complaint, or identifying details anywhere in this program. Working notes stay in the web browser you are using, where another person using the same browser may be able to see them. If any part of the program is difficult to use with assistive technology, Support explains how to report the barrier.",
