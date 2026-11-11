@@ -6,7 +6,7 @@ import { DEVELOPMENT_CAPABILITIES } from "@/lib/content/leadership-development";
 import { DSD_SCENARIOS } from "@/lib/dsd";
 import {
   ActivitiesSchema, COMPETENCIES, COMPETENCY_IDS, COURSE_TAGS, COURSE_TAG_PROVENANCE, DEVELOPMENT_CAPABILITY_COMPETENCY, DOMAIN_IDS,
-  KnowledgeTagsSchema, RESOURCE_TAGS, allTaggedResources, courseTags, findTagged, mayBeAdapted, needsTextPass, resourceKey,
+  KnowledgeTagsSchema, LESSON_TAGS, LESSON_TAG_PROVENANCE, ORIENTATION_IDS, RESOURCE_TAGS, findLessons, lessonTags, allTaggedResources, courseTags, findTagged, mayBeAdapted, needsTextPass, resourceKey,
 } from "@/lib/content/knowledge";
 
 const courseIds = [...RECOVERED_COURSES, ...AUTHORED_COURSES].map(pack => pack.course.id);
@@ -101,5 +101,47 @@ describe("finding tagged resources", () => {
     expect(shared.some(resource => resource.setting === "dsd")).toBe(false);
     expect(shared.some(resource => resource.kind === "scenario")).toBe(false);
     expect(findTagged({ kinds: ["scenario"] }, { settings: ["shared", "dsd"] })).toHaveLength(DSD_SCENARIOS.length);
+  });
+});
+
+describe("lesson tags", () => {
+  const packs = new Map([...RECOVERED_COURSES, ...AUTHORED_COURSES].map(pack => [pack.course.id, pack]));
+  const taggedCourses = new Set(Object.keys(LESSON_TAGS).map(key => key.split("/")[0]));
+
+  it("refer only to real lessons, and cover every lesson of each course they touch", () => {
+    for (const key of Object.keys(LESSON_TAGS)) {
+      const [courseId, lessonId] = key.split("/");
+      expect(packs.get(courseId)?.course.lessons.some(lesson => lesson.id === lessonId), key).toBe(true);
+    }
+    for (const courseId of taggedCourses) {
+      for (const lesson of packs.get(courseId)!.course.lessons) expect(lessonTags(courseId, lesson.id), `${courseId}/${lesson.id}`).toBeDefined();
+    }
+    expect(Object.keys(LESSON_TAGS)).toHaveLength(609);
+    expect(taggedCourses.size).toBe(135);
+  });
+
+  it("use one or two known competencies, known orientations, and never touch a deferred course", () => {
+    for (const [key, tags] of Object.entries(LESSON_TAGS)) {
+      expect(tags.competencies.length, key).toBeGreaterThanOrEqual(1);
+      expect(tags.competencies.length, key).toBeLessThanOrEqual(2);
+      for (const competency of tags.competencies) expect(COMPETENCY_IDS, key).toContain(competency);
+      for (const orientation of tags.orientations) expect(ORIENTATION_IDS, key).toContain(orientation);
+      expect(tags.activities, key).toContain("learn");
+      expect(courseTags(key.split("/")[0])?.deferral, key).toBe("none");
+    }
+    expect(LESSON_TAG_PROVENANCE).toMatchObject({ basis: "titles", producedBy: "agent-first-pass", ownerReviewed: false });
+  });
+
+  it("find lessons by competency, orientation, and the scope of their course", () => {
+    const coaching = findLessons({ competencies: ["coach-feedback"], scopes: ["team"] });
+    expect(coaching.length).toBeGreaterThan(0);
+    for (const lesson of coaching) {
+      expect(lesson.tags.competencies).toContain("coach-feedback");
+      expect(lesson.course.scopes).toContain("team");
+      expect(lesson.href).toBe(`/courses/${lesson.courseId}/${lesson.lessonId}`);
+    }
+    for (const orientation of ORIENTATION_IDS) expect(findLessons({ orientations: [orientation] }).length, orientation).toBeGreaterThan(0);
+    for (const competency of COMPETENCY_IDS) expect(findLessons({ competencies: [competency] }).length, competency).toBeGreaterThan(0);
+    expect(findLessons({}, { availableKeys: new Set() })).toEqual([]);
   });
 });

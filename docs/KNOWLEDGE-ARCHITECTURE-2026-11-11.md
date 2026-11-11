@@ -87,13 +87,40 @@ Three of the partial marks are cautious calls on thin evidence (a faith course's
 
 ---
 
+## 2a. Stage two, first part: lesson tags
+
+Added after stage one, the same day. Local work only.
+
+| Delivered | Where |
+| --- | --- |
+| First-pass tags for 609 lessons across 135 courses | `lib/content/knowledge/lesson-tags.json` |
+| Lesson lookups by competency, orientation, and the scope and domain of the lesson's course | `findLessons` in `lib/content/knowledge/index.ts` |
+| Three more tests, 16 in all | `tests/knowledge-tags.test.ts` |
+
+**Which lessons.** Every lesson of every course that carries a leadership scope, plus the intercultural courses that are not community profiles. Deferred courses are excluded. The remaining 806 lessons, mostly community profiles and service knowledge, are not yet tagged.
+
+**What each lesson carries.** One or two competencies, any orientation it addresses, and its activities.
+
+**What it showed.**
+
+- Every one of the 21 competencies and all six orientations has at least one lesson.
+- 59 lessons address an orientation: Minimization 22, Acceptance 18, Adaptation 16, Polarization 9, Denial 5, Integration 4.
+- The thinnest competencies are "bridge across difference" and "share knowledge and build future capability," with 9 lessons each.
+- All 609 lessons include a scenario, so each has practice built in. **None has a reflection block.** Reflection today comes from separate tools, not from the lessons. The long-term design's reflection step will need to be added to lessons or attached beside them.
+
+**Trust.** Tagged from lesson titles and one-sentence summaries only, by four agent passes. Recorded as not owner-reviewed. About 60 lessons were flagged as too thin to tag with confidence, chiefly 26 lessons in two community courses with templated summaries, ten regional overview lessons, and several service-knowledge lessons that fit the vocabulary loosely.
+
+**Still to do in stage two.** The owner's review of first-pass tags and the competency list; tags for the remaining lessons.
+
+---
+
 ## 3. Verification
 
 Environment: local, Node 24.14.0, npm 11.9.0, static content source.
 
 | Check | Result |
 | --- | --- |
-| `tests/knowledge-tags.test.ts` | 13 of 13 passed |
+| `tests/knowledge-tags.test.ts` | 16 of 16 passed, including the lesson tags |
 | ESLint on the new files | Passed |
 | TypeScript, whole project | Passed |
 | Full test suite, 232 files | 210 files passed, 4 skipped, 18 failed. 1,896 tests passed, 128 skipped, 3 failed |
