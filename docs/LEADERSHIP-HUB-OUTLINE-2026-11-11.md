@@ -98,7 +98,7 @@ No prerequisites, level labels, or minimum service apply. A learner can open any
 | **1. Leading yourself** | Staff identified with leadership potential, by themselves, a colleague, or a supervisor | What kind of leader do I want to be, and what do I treat as the default? | Finding one's own Denial, Polarization, and Minimization honestly; first Acceptance practices | One small change that makes a meeting, handoff, or welcome more accessible or inclusive |
 | **2. Leading a program** | New and experienced program leads | How do I improve access and culture in work I guide but do not supervise? | Acceptance into Adaptation: changing a process so it works across difference, not asking people to fit it | A program or cross-unit improvement with a stakeholder map, the decision owner named, and delivery, application, and benefit evidence kept distinct |
 | **3. Leading a team** | New and experienced supervisors | How do we work so that different colleagues can contribute and people served get responsive, accessible service? | Recognizing a team in Minimization; building Acceptance into hiring, feedback, workload, recognition, and development | A team practice change with a before-and-after observation the team agrees on |
-| **4. Leading across teams** | New and experienced managers | How do resourcing, workforce, and governance decisions carry equity across the teams I am responsible for? | Adaptation at system level | An initiative the learner already has authority to sponsor, with an equity analysis and a report-back |
+| **4. Leading across teams** | New and experienced managers, including deputy and assistant directors | How do resourcing, workforce, and governance decisions carry equity across the teams I am responsible for? | Adaptation at system level | An initiative the learner already has authority to sponsor, with an equity analysis and a report-back |
 | **5. Leading the division** | New and experienced directors | What culture and access is the division building, and who has a fair chance to carry the work forward? | Conditions for Integration: equity as how the division works, including when leaders change | One barrier removed through the proper policy or structural route; one visible, open development opportunity; a function-level continuity review |
 
 ### What each pathway equips
@@ -190,7 +190,7 @@ Each phase would need its own tests, browser checks, and receipts before it is c
 | 9.5 | Replace or extend the current leadership page | Extend it. Keep the three starting points as the way into pathway 1 and the other pathways |
 | 9.6 | Pathway names | Use the scope-of-work names in section 5, each with its audience stated beneath; avoid "Emerging Leaders" |
 | 9.7 | Employee-assistance link | Add after the current DHS link is verified |
-| 9.8 | Whether deputy or assistant directors, if DSD has them, belong with managers or directors | Owner's call; the organizational map is still open (DSD-D3) |
+| 9.8 | Whether deputy or assistant directors belong with managers or directors | Answered by the owner, November 11, 2026: with managers and supervisors. Pathway 4 names them; pathway 5 stays for directors |
 
 ---
 
