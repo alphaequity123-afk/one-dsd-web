@@ -6,6 +6,8 @@ November 11, 2026. Internal program and implementation guidance. This document i
 
 **Request.** Analyze the application and its requirements documents, and outline an equity- and inclusion-based Leadership Hub from the owner's "One DSD Self-Paced Leadership Journey" draft (an individual, online, voluntary, self-paced journey with five pathways and an integrated learn, reflect, apply, capture, repeat cycle).
 
+**Owner direction, November 11, 2026.** The program is for DSD staff identified with leadership potential and for new or experienced program leads, supervisors, managers, and directors. Its purpose is to equip them with advisory and practical knowledge, insight, and skill, both professional and personal, to lead with an equity mindset and lens. Sections 4, 5, and 9 reflect this.
+
 **Purpose.** Give the owner a hub design that keeps the draft's ambition, fits what the application already does, and names every place the draft conflicts with a standing program rule.
 
 **What was read.** `PRD.md`, `docs/PRD-ONE-DSD-PAC-2026-09-11.md`, the privacy and retention sections of `docs/PRD-ONE-DHS-PAC-2026-09-11.md`, `docs/OWNER-DIRECTIVE-2026-09-07.md`, `docs/LEADERSHIP-DEVELOPMENT-2026-09-08.md`, `docs/LEADERSHIP-LIFECYCLE-2026-09-08.md`, `docs/EMERGING-LEADERS-DSD-ANALYSIS-2026-09-08.md`, `docs/LEARNING-COORDINATION-2026-09-08.md`, the leadership page and its content modules, the course manifest and authored course folders, the practice paths, and the device-storage keys. The course mapping in section 5 comes from a title and keyword scan, not a lesson-by-lesson review.
@@ -16,7 +18,7 @@ November 11, 2026. Internal program and implementation guidance. This document i
 
 1. **The draft's shape fits the program.** Voluntary, self-paced, no nomination, private by default, and reflection and application in every step all match the PRD and the existing leadership page.
 2. **The draft is not yet equity- and inclusion-based.** It reads as a general leadership curriculum with access and culture as topics. The program's theory of change is the IDI continuum (September 14 directive). The hub outlined here makes that continuum, the seven DEIA leadership capabilities, and the employee life cycle the content spine of every pathway.
-3. **The draft was written for a different organization.** It refers to social development, deputy directors-general, directors-general, and national or international peer networks. One DSD here is the Disability Services Division of Minnesota DHS, about 180 staff. Audiences, titles, and examples need translating, and the real DSD leadership titles need the owner's confirmation.
+3. **The draft was written for a different organization.** It refers to social development, deputy directors-general, directors-general, and national or international peer networks. One DSD here is the Disability Services Division of Minnesota DHS, about 180 staff. The owner has since set the audience (see the owner direction above), and the pathways in section 5 follow it. Examples still need translating to disability services work.
 4. **About half of the hub already exists.** `/one-dsd/leadership` has three starting points, seven capabilities, a ten-stage life cycle, a development map, a continuity tool, and the Learn, Reflect, Practice, Return cycle. The hub should extend that page, not replace it.
 5. **Eight features in the draft conflict with standing rules** and are redesigned or deferred below: the diagnostic, badges and self-certification, 360 feedback, mentor and coach directories and peer matching, community forums, analytics and dashboards, pipeline and retention metrics, and automated prompts.
 
@@ -67,7 +69,9 @@ Each row keeps the draft's intent and changes the mechanism.
 
 **Name on the page.** Leadership Hub, within One DSD People, Access and Culture. No new brand.
 
-**One sentence.** A place where anyone in DSD can grow as a leader of equity, inclusion, and accessibility, at their own pace, by learning something small, examining their own practice, trying it in real work, and coming back to what happened.
+**One sentence.** A place where DSD staff with leadership potential, program leads, supervisors, managers, and directors build the knowledge, insight, and skill to lead with an equity mindset and lens, at their own pace, by learning something small, examining their own practice, trying it in real work, and coming back to what happened.
+
+**"Identified with leadership potential."** The hub treats identification as an invitation. A person can identify themselves, or a colleague or supervisor can encourage them, which the current page already supports through its "I want to explore leadership" and "Someone has encouraged me" starting points. The hub keeps no list of who was identified and does not check for it. Whether identification should also work as a formal nomination is decision 9.1.
 
 **Three content spines, used in every pathway.**
 
@@ -85,15 +89,28 @@ Each row keeps the draft's intent and changes the mechanism.
 
 ## 5. Five pathways
 
-Open to anyone. No level labels, prerequisites, nomination, or minimum service. A learner can start anywhere, mix pathways, and stop at any point. Titles in the "For" column are working descriptions; the real DSD titles need confirmation (decision 9.1).
+The five pathways follow the owner's audience: staff identified with leadership potential, program leads, supervisors, managers, and directors. Each pathway serves someone new to that work and someone experienced in it, through a "start here" set and a "go further" set, with no label on the person.
+
+No prerequisites, level labels, or minimum service apply. A learner can open any pathway, mix them, and stop at any point.
 
 | Pathway | For | Core question | Continuum emphasis | Application the learner might choose |
 | --- | --- | --- | --- | --- |
-| **1. Leading yourself** | Anyone curious about leadership, in any role | What kind of leader do I want to be, and what do I treat as the default? | Finding one's own Denial, Polarization, and Minimization honestly; first Acceptance practices | One small change that makes a meeting, handoff, or welcome more accessible or inclusive |
-| **2. Leading with a team** | Leads, new supervisors, people who coordinate others' work | How do we work so that different colleagues can contribute and people served get responsive, accessible service? | Recognizing a team in Minimization; building Acceptance into team routines | A team practice change with a before-and-after observation the team agrees on |
-| **3. Leading across boundaries** | Supervisors, managers, and program or policy leads working across units | How do I improve access and culture where I do not hold all the authority? | Adaptation: changing a process so it works across difference, not asking people to fit it | A cross-unit improvement with a stakeholder map, the decision owner named, and delivery, application, and benefit evidence kept distinct |
-| **4. Leading the division's agenda** | Managers and directors responsible for division-wide priorities | How do resourcing, governance, and workforce decisions carry equity at scale? | Adaptation at system level; conditions for Integration | A division-level initiative the learner already has authority to sponsor, with an equity analysis and a report-back |
-| **5. Stewarding what lasts** | Division senior leadership | What culture and access will remain after I move on, and who has a fair chance to carry the work? | Integration: equity as how the division works, including when leaders change | One barrier removed through the proper policy or structural route; one visible, open development opportunity; a function-level continuity review |
+| **1. Leading yourself** | Staff identified with leadership potential, by themselves, a colleague, or a supervisor | What kind of leader do I want to be, and what do I treat as the default? | Finding one's own Denial, Polarization, and Minimization honestly; first Acceptance practices | One small change that makes a meeting, handoff, or welcome more accessible or inclusive |
+| **2. Leading a program** | New and experienced program leads | How do I improve access and culture in work I guide but do not supervise? | Acceptance into Adaptation: changing a process so it works across difference, not asking people to fit it | A program or cross-unit improvement with a stakeholder map, the decision owner named, and delivery, application, and benefit evidence kept distinct |
+| **3. Leading a team** | New and experienced supervisors | How do we work so that different colleagues can contribute and people served get responsive, accessible service? | Recognizing a team in Minimization; building Acceptance into hiring, feedback, workload, recognition, and development | A team practice change with a before-and-after observation the team agrees on |
+| **4. Leading across teams** | New and experienced managers | How do resourcing, workforce, and governance decisions carry equity across the teams I am responsible for? | Adaptation at system level | An initiative the learner already has authority to sponsor, with an equity analysis and a report-back |
+| **5. Leading the division** | New and experienced directors | What culture and access is the division building, and who has a fair chance to carry the work forward? | Conditions for Integration: equity as how the division works, including when leaders change | One barrier removed through the proper policy or structural route; one visible, open development opportunity; a function-level continuity review |
+
+### What each pathway equips
+
+Every pathway carries all four strands from the owner's purpose statement. "Mindset" is the personal work; "lens" is the professional method applied to a decision.
+
+| Strand | What it means in the hub | Where it comes from |
+| --- | --- | --- |
+| Personal insight (equity mindset) | Examining one's own culture, defaults, and place in the work, using the IDI continuum as a language for reflection | The "examine your own cultural default" capability; the continuum courses; the reflection journal |
+| Professional knowledge | What a leader at this scope needs to know: the employee life cycle, disability services context, policy obligations, how inequity shows up in ordinary decisions | Existing courses, program profiles, the DHS Equity Policy and the State Equity Analysis Tool as original sources |
+| Practical skill (equity lens) | Applying an equity analysis to a real decision: who is affected, who decides, what evidence exists, what will be tried, what happened | Life-cycle stages, practice scenarios, the Toolkit companion, the application planner |
+| Advisory capability | Advising well and using advice well: framing options and tradeoffs for a decision owner, coaching and sponsoring others, knowing when to bring in HR, the consultant, or another responsible office | Options-brief practice, mentoring and sponsorship guidance, conversation guides, `/support` |
 
 ### Formal learning for each pathway
 
@@ -101,11 +118,11 @@ Existing resources come first. "To author" marks a draft module with no matching
 
 | Pathway | Existing courses and tools to connect | To author |
 | --- | --- | --- |
-| 1 | Denial; Polarization; What Minimization Does in DHS Work; Acceptance in DHS Work; Intercultural Conflict Styles at a DHS Desk; the "Begin with curiosity" and "Make room for different experiences" focuses; life-cycle stages for welcoming and everyday contribution | Personal accountability in public service |
-| 2 | Teams in Minimization; Inclusive Supervision and Team Culture; Leading a Reflective DSD Team; Coaching and Supervising Direct Support; Conflict at Work; Power, Conflict and Repair; Leading Difficult Dialogue; Career Mentorship and Sponsorship; the workplace culture and team climate practice path | Psychological safety as a team practice (it appears inside existing lessons but has no course of its own) |
-| 3 | Adaptation; Change Management: Bringing People Along; Equity and Inclusion: Leadership and Systems; The Employee Life Cycle as a System; Stakeholder partnership; Responding to Concerns and Feedback; the Equity Analysis Toolkit companion; the measurement worksheet | Systems thinking for disability services; leading change without formal authority; after-action review guide |
-| 4 | Equity-Centered Leadership; Accessibility as Leadership Responsibility; Governance, Accountability and Resourcing; The Leadership Case for Disability Inclusion; Equitable Policy and Procedure Governance; Inclusive Workforce and Team Culture; Public power and institutional impact | Leading culture at division scale; a leadership philosophy statement guide |
-| 5 | Integration; the continuity builder; Career pathways and succession; life-cycle stages for succession and transition | Stewardship and foresight; learning from someone earlier in their career (the draft's reverse mentoring, as a conversation guide) |
+| 1. Leading yourself | Denial; Polarization; What Minimization Does in DHS Work; Acceptance in DHS Work; Intercultural Conflict Styles at a DHS Desk; the "Begin with curiosity" and "Make room for different experiences" focuses; life-cycle stages for welcoming and everyday contribution | Personal accountability in public service |
+| 2. Leading a program | Adaptation; Change Management: Bringing People Along; Stakeholder partnership; Responding to Concerns and Feedback; Equitable Policy and Procedure Governance; the Equity Analysis Toolkit companion; the measurement worksheet | Systems thinking for disability services; leading change without formal authority; after-action review guide |
+| 3. Leading a team | Teams in Minimization; Inclusive Supervision and Team Culture; Leading a Reflective DSD Team; Coaching and Supervising Direct Support; Conflict at Work; Power, Conflict and Repair; Leading Difficult Dialogue; Career Mentorship and Sponsorship; the workplace culture and team climate practice path | Psychological safety as a team practice (it appears inside existing lessons but has no course of its own) |
+| 4. Leading across teams | Equity-Centered Leadership; Equity and Inclusion: Leadership and Systems; The Employee Life Cycle as a System; Accessibility as Leadership Responsibility; Governance, Accountability and Resourcing; Inclusive Workforce and Team Culture | Advising and deciding: preparing and using an options brief; leading culture across several teams |
+| 5. Leading the division | Integration; The Leadership Case for Disability Inclusion; Public power and institutional impact; the continuity builder; Career pathways and succession; life-cycle stages for succession and transition | Stewardship and foresight; a leadership philosophy statement guide; learning from someone earlier in their career (the draft's reverse mentoring, as a conversation guide) |
 
 The draft's "masterclass video", "senior leader exchange", and "national or international peer network" are not outlined as built features. Each depends on real people agreeing to take part, so each waits for an actual arrangement.
 
@@ -126,7 +143,7 @@ The draft's "masterclass video", "senior leader exchange", and "national or inte
 
 The reflection templates state that entries stay on the learner's device and remind the learner to leave out names, case details, and anything about another person's health, disability, or personnel matters.
 
-**Application, in three sizes.** A personal practice (pathways 1 and 2), a cross-boundary project (3 and 4), and a stewardship action (5). The existing development map serves the first. The second and third need a larger planner: the question, who is affected, who decides, what the official process requires, what will be tried, what will be observed, and what happened. The learner reviews their own work with a short rubric. No one else assesses it.
+**Application, in three sizes.** A personal or team practice (pathways 1 and 3), a program or cross-team project (2 and 4), and a division-level action (5). The existing development map serves the first. The second and third need a larger planner: the question, who is affected, who decides, what the official process requires, what will be tried, what will be observed, and what happened. The learner reviews their own work with a short rubric. No one else assesses it.
 
 ---
 
@@ -153,7 +170,7 @@ Accessibility follows the existing standard: captions and complete transcripts, 
 
 Each phase would need its own tests, browser checks, and receipts before it is called done. None has started.
 
-1. **Reconcile content.** Confirm DSD titles; confirm the course mapping in section 5 against the full inventory; confirm feature prominence with the owner.
+1. **Reconcile content.** Confirm the course mapping in section 5 against the full inventory; confirm feature prominence with the owner.
 2. **Hub entry and pathway pages** from existing content only. No new storage.
 3. **Journal, planner, and portfolio export** on the device.
 4. **New lessons** listed as "to author", each to the lesson standard.
@@ -166,14 +183,14 @@ Each phase would need its own tests, browser checks, and receipts before it is c
 
 | # | Decision | Recommendation |
 | --- | --- | --- |
-| 9.1 | The real DSD leadership titles for each pathway's "For" line | Owner supplies; the organizational map is still open (DSD-D3) |
+| 9.1 | Whether "identified with leadership potential" is an open invitation or a formal nomination | Keep it an invitation. A nomination list would be a record about named staff and would reverse the PRD's "no nomination or service threshold" |
 | 9.2 | Badges and self-certification | Leave out. Offer a learner-written summary with the training-credit notice |
 | 9.3 | Mentor and coach directories, peer matching, alumni network | Defer. They need real volunteers, consent, and a roster the PRD currently excludes |
 | 9.4 | Where the journal and portfolio live | On the device with file export, until retention (D-13) is decided with colleagues. Audio and video entries wait for the same decision |
-| 9.5 | Replace or extend the current leadership page | Extend it. Keep the three starting points as the way into pathways 1 and 2 |
-| 9.6 | Pathway names | Use scope-of-work names; avoid "Emerging Leaders" |
+| 9.5 | Replace or extend the current leadership page | Extend it. Keep the three starting points as the way into pathway 1 and the other pathways |
+| 9.6 | Pathway names | Use the scope-of-work names in section 5, each with its audience stated beneath; avoid "Emerging Leaders" |
 | 9.7 | Employee-assistance link | Add after the current DHS link is verified |
-| 9.8 | Pathway 5 audience and tone | Owner's call, since it addresses division senior leadership directly |
+| 9.8 | Whether deputy or assistant directors, if DSD has them, belong with managers or directors | Owner's call; the organizational map is still open (DSD-D3) |
 
 ---
 
