@@ -1,0 +1,4359 @@
+{
+ "provenance": {
+  "basis": "titles",
+  "producedBy": "agent-first-pass",
+  "ownerReviewed": false,
+  "date": "2026-11-11"
+ },
+ "courses": {
+  "acceptance-in-dhs-work": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective",
+    "own-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "accessibility-as-leadership-responsibility": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "build-access",
+    "purpose-accountability"
+   ],
+   "scopes": [
+    "team",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "anti-racism-resource": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "sustain-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "brain-injury-and-complex-disability": {
+   "domains": [
+    "human-centered-communication",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "career-mentorship-and-sponsorship": {
+   "domains": [
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "develop-others"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "change-management-bringing-people-along": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "lead-change",
+    "partner"
+   ],
+   "scopes": [
+    "program",
+    "team",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "partial"
+  },
+  "conflict-at-work": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "conflict-repair"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "cq-afghan-minnesota": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "adapt-behavior",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cq-anglo": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective",
+    "adapt-behavior",
+    "coach-feedback"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "cq-arab": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "adapt-behavior",
+    "bridge",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cq-cluster-frameworks-foundations": {
+   "domains": [
+    "intercultural-fluency",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective",
+    "adapt-behavior",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "partial"
+  },
+  "cq-confucian-asia": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "adapt-behavior",
+    "bridge",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cq-eastern-europe": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective",
+    "adapt-behavior",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "cq-eritrean-minnesota": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "adapt-behavior",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cq-germanic-europe": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective",
+    "adapt-behavior",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "cq-latin-america": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective",
+    "adapt-behavior",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "cq-latin-europe": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective",
+    "adapt-behavior",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "cq-leading-multicultural-teams": {
+   "domains": [
+    "leadership-effectiveness",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "coach-feedback",
+    "adapt-behavior",
+    "bridge"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "cq-nordic-europe": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective",
+    "adapt-behavior",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "cq-southern-asia": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "adapt-behavior",
+    "bridge",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cq-sub-saharan-africa": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "adapt-behavior",
+    "bridge",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cq-sudanese-south-sudanese-minnesota": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "adapt-behavior",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cq-tibetan-minnesota": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "adapt-behavior",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "critical-incidents-in-the-work": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "conflict-repair"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "cultural-broker-as-a-role": {
+   "domains": [
+    "intercultural-fluency",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "bridge",
+    "govern-resource"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "cultural-humility-vs-checklist": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "cultural-intelligence-african-american": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-alaska-native": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "whole"
+  },
+  "cultural-intelligence-american": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture",
+    "observe-interpret"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-amharic": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-arabic": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-bosnian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-burmese": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-cambodian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-chinese": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-colombian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-cuban": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-ecuadorian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-ethiopian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-european-american": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-filipino": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-french": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-guatemalan": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-hmong": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-indian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-japanese": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-karen": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-kenyan": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-korean": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-lao": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-latino": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-lebanese": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-liberian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-mexican": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-minnesota": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture",
+    "observe-interpret"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-native-american": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "whole"
+  },
+  "cultural-intelligence-nigerian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-oromo": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-puerto-rican": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-rural": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-russian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-salvadoran": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-somali": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-thai": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-tribal": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "whole"
+  },
+  "cultural-intelligence-ukrainian": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "cultural-intelligence-vietnamese": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "culture-without-theater": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "sustain-culture",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "dhs-equity-analysis-toolkit": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "policy"
+   ],
+   "deferral": "none"
+  },
+  "di-access-needs-and-individualized-support": {
+   "domains": [
+    "human-centered-communication",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "listen-inquire",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "di-accessibility-auditing-and-barrier-analysis": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "build-access",
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-accessibility-basics": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-accessible-content-and-digital-learning": {
+   "domains": [
+    "human-centered-communication",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-accommodations-and-interactive-process": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce",
+    "policy"
+   ],
+   "deferral": "none"
+  },
+  "di-allyship-and-everyday-action": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "sustain-culture",
+    "conflict-repair"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-capstone-remove-a-real-barrier": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "lead-change",
+    "partner",
+    "equity-analysis",
+    "build-access"
+   ],
+   "scopes": [
+    "across-teams",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-change-management-and-implementation": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "lead-change",
+    "govern-resource",
+    "build-access"
+   ],
+   "scopes": [
+    "program",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-co-design-and-lived-experience": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "partner",
+    "govern-resource"
+   ],
+   "scopes": [
+    "program",
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-conflict-resolution-and-neurodiversity": {
+   "domains": [
+    "human-centered-communication",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "conflict-repair",
+    "facilitate",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "di-de-escalation-without-coercion": {
+   "domains": [
+    "human-centered-communication",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "conflict-repair",
+    "listen-inquire",
+    "observe-interpret"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "di-disability-data-privacy-and-measurement": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "program",
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-disability-diversity-belonging": {
+   "domains": [
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "build-access",
+    "sustain-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-facilitation-and-peer-learning": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "facilitate",
+    "conflict-repair"
+   ],
+   "scopes": [
+    "program",
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-governance-accountability-resourcing": {
+   "domains": [
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "govern-resource",
+    "sustain-culture",
+    "continuity"
+   ],
+   "scopes": [
+    "organization",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-inclusive-communication": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "listen-inquire",
+    "conflict-repair"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "di-inclusive-meetings-events-learning": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "facilitate",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-inclusive-policy-procurement-technology": {
+   "domains": [
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "build-access",
+    "govern-resource"
+   ],
+   "scopes": [
+    "across-teams",
+    "organization",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-inclusive-supervision-and-team-culture": {
+   "domains": [
+    "leadership-effectiveness",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "coach-feedback",
+    "build-access"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "di-language-and-respectful-interaction": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "listen-inquire",
+    "conflict-repair"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-leadership-case-for-inclusion": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "govern-resource",
+    "sustain-culture",
+    "purpose-accountability"
+   ],
+   "scopes": [
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-measuring-culture-and-sustained-progress": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "evidence",
+    "partner",
+    "sustain-culture"
+   ],
+   "scopes": [
+    "organization",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-models-and-perspectives": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "build-access",
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "di-rights-policy-and-organizational-duties": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "build-access",
+    "govern-resource",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "policy"
+   ],
+   "deferral": "none"
+  },
+  "di-trauma-informed-culturally-responsive-practice": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "adapt-behavior",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "disability-and-language": {
+   "domains": [
+    "human-centered-communication",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "div-a01-aversive-racism": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a02-whiteness-institutional-norm": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "own-culture"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a03-intersectional-discrimination": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a04-epistemic-injustice": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "partner",
+    "evidence",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a05-racial-battle-fatigue": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "sustain-culture",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a06-restorative-identity-harm": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "conflict-repair",
+    "facilitate"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a07-networks-opportunity-hoarding": {
+   "domains": [
+    "leadership-effectiveness",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "develop-others",
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a08-bias-reduction-interventions": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence",
+    "lead-change"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a09-intergroup-contact": {
+   "domains": [
+    "human-centered-communication",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "facilitate",
+    "bridge"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a10-moral-exclusion-dehumanization": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "evidence",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-a11-white-supremacy-culture": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "lead-change",
+    "sustain-culture"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f01-white-privilege": {
+   "domains": [
+    "intercultural-fluency",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "own-culture",
+    "shift-perspective",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f02-microaggressions": {
+   "domains": [
+    "human-centered-communication",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "conflict-repair",
+    "observe-interpret"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f03-intercultural-communication": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "adapt-behavior",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f04-cultural-values": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture",
+    "shift-perspective",
+    "bridge"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f05-implicit-bias-iat": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "evidence",
+    "own-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f06-social-identity": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "own-culture",
+    "shift-perspective",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f07-stereotypes-prejudice-discrimination": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "evidence",
+    "observe-interpret"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f08-ethnocentrism": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f09-intersectionality": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-f10-equality-equity-fairness": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i01-microinterventions": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "conflict-repair",
+    "facilitate"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i02-ambiguous-bias": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "evidence",
+    "observe-interpret"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i03-identity-safety": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "evidence",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i04-code-switching": {
+   "domains": [
+    "intercultural-fluency",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "adapt-behavior",
+    "shift-perspective",
+    "sustain-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i05-colorism": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i06-classism": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i07-gender-double-binds": {
+   "domains": [
+    "leadership-effectiveness",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "coach-feedback",
+    "develop-others",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i08-racial-socialization": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i09-accent-bias": {
+   "domains": [
+    "human-centered-communication",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "listen-inquire",
+    "accessible-communication",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "div-i10-receiving-feedback": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "conflict-repair",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "dsd-01-minnesota-service-system": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "policy"
+   ],
+   "deferral": "none"
+  },
+  "dsd-02-service-coordination-navigation": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-03-self-direction-independent-living": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "partner",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-04-personal-outcomes-quality": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "evidence",
+    "partner",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-05-customized-employment": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-06-benefits-assets-economic": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-07-executive-function-strengths": {
+   "domains": [
+    "organizational-stewardship",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "build-access",
+    "observe-interpret"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-08-brain-injury-practice": {
+   "domains": [
+    "human-centered-communication",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "listen-inquire",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-09-aging-health-access": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "build-access",
+    "equity-analysis",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-10-early-adversity-resilience": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-11-community-mapping-belonging": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "partner",
+    "bridge"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "dsd-12-communication-methods": {
+   "domains": [
+    "human-centered-communication",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "listen-inquire",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-13-coaching-direct-support": {
+   "domains": [
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "coach-feedback",
+    "develop-others",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "dsd-co-occurring-substance-use": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-housing-instability": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-justice-involvement-reentry": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-leading-system-change": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "lead-change",
+    "partner",
+    "govern-resource"
+   ],
+   "scopes": [
+    "program",
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "policy"
+   ],
+   "deferral": "partial"
+  },
+  "dsd-mental-health-psychiatric-disability": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "build-access",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "dsd-positive-supports": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "build-access",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "policy"
+   ],
+   "deferral": "none"
+  },
+  "employee-life-cycle-as-a-system": {
+   "domains": [
+    "systems-leadership",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "inclusive-teams",
+    "develop-others"
+   ],
+   "scopes": [
+    "everyone",
+    "team",
+    "across-teams"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "employee-viewpoint-and-wellbeing-surveys": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "evidence",
+    "sustain-culture"
+   ],
+   "scopes": [
+    "team",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "employment-first-and-economic-inclusion": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "policy"
+   ],
+   "deferral": "partial"
+  },
+  "equal-opportunity-in-employment": {
+   "domains": [
+    "systems-leadership",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce",
+    "policy"
+   ],
+   "deferral": "none"
+  },
+  "equity-centered-leadership": {
+   "domains": [
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "purpose-accountability",
+    "inclusive-teams",
+    "coach-feedback"
+   ],
+   "scopes": [
+    "team",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "equity-champion-contribution-workflow": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "continuity"
+   ],
+   "scopes": [
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "equity-inclusion-leadership-and-systems": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "govern-resource"
+   ],
+   "scopes": [
+    "program",
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "facilitators-guide-equity-inclusion-curriculum": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "facilitate",
+    "conflict-repair"
+   ],
+   "scopes": [
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "family-and-natural-support-systems": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "partner",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "from-noticing-to-shifting": {
+   "domains": [
+    "intercultural-fluency",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "adapt-behavior",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [
+    "adaptation",
+    "polarization"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "gc-accommodation-transitions": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "build-access",
+    "continuity",
+    "develop-others"
+   ],
+   "scopes": [
+    "team",
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "gc-age-inclusion": {
+   "domains": [
+    "leadership-effectiveness",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce",
+    "policy"
+   ],
+   "deferral": "none"
+  },
+  "gc-automated-decisions": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "govern-resource",
+    "equity-analysis",
+    "evidence"
+   ],
+   "scopes": [
+    "program",
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "gc-career-pathways-succession": {
+   "domains": [
+    "leadership-effectiveness",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "develop-others",
+    "continuity"
+   ],
+   "scopes": [
+    "team",
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "gc-deaf-minnesota": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "gc-employee-resource-groups": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "sustain-culture",
+    "govern-resource",
+    "develop-others"
+   ],
+   "scopes": [
+    "everyone",
+    "team",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "gc-equity-committee-roles": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "govern-resource",
+    "sustain-culture",
+    "purpose-accountability"
+   ],
+   "scopes": [
+    "program",
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "partial"
+  },
+  "gc-faith-in-minnesota": {
+   "domains": [
+    "intercultural-fluency",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "adapt-behavior",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "partial"
+  },
+  "gc-new-supervisor-inclusive-leadership": {
+   "domains": [
+    "leadership-effectiveness",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "coach-feedback",
+    "develop-others",
+    "build-access"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "gc-remote-hybrid-equity": {
+   "domains": [
+    "leadership-effectiveness",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "gc-respectful-workplace": {
+   "domains": [
+    "leadership-effectiveness",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "conflict-repair"
+   ],
+   "scopes": [
+    "everyone",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "gc-structural-racism": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "lead-change"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "gc-sustaining-the-work": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "sustain-culture",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself",
+    "team",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "gc-using-community-briefs": {
+   "domains": [
+    "intercultural-fluency",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "bridge",
+    "partner"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "health-wellness-and-safety": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "partner",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "how-it-shows-up-in-minnesota-human-services": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "policy"
+   ],
+   "deferral": "partial"
+  },
+  "idi-acceptance": {
+   "domains": [
+    "intercultural-fluency",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "own-culture",
+    "adapt-behavior",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself",
+    "team"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "idi-adaptation": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "adapt-behavior",
+    "shift-perspective",
+    "bridge",
+    "own-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "idi-denial": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture",
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself",
+    "team"
+   ],
+   "orientations": [
+    "denial"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "idi-integration": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "bridge",
+    "shift-perspective",
+    "own-culture",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself",
+    "team"
+   ],
+   "orientations": [
+    "integration"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "idi-minimization": {
+   "domains": [
+    "intercultural-fluency",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "own-culture",
+    "shift-perspective",
+    "bridge",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself",
+    "team"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "idi-polarization": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture",
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself",
+    "team"
+   ],
+   "orientations": [
+    "polarization"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "intercultural-competence-without-a-score": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "intercultural-conflict-styles": {
+   "domains": [
+    "human-centered-communication",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "conflict-repair",
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-01-intercultural-practice": {
+   "domains": [
+    "intercultural-fluency",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "own-culture",
+    "observe-interpret",
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-02-disability-culture-justice": {
+   "domains": [
+    "intercultural-fluency",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "shift-perspective",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-03-public-power": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-04-person-centered-systems": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "partner",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-05-bias-assumptions-accountability": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "evidence",
+    "observe-interpret",
+    "own-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-06-accessible-communication": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-07-participation-and-voice": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "partner",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-08-choosing-a-learning-focus": {
+   "domains": [
+    "leadership-effectiveness",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "purpose-accountability",
+    "own-culture"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-09-accessible-public-communications": {
+   "domains": [
+    "human-centered-communication",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-10-language-access": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "govern-resource",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-11-inclusive-meetings": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "facilitate"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-12-policy-writing-equity-lens": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-13-program-service-design": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "partner",
+    "equity-analysis",
+    "build-access"
+   ],
+   "scopes": [
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-14-documentation-and-narrative": {
+   "domains": [
+    "human-centered-communication",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-15-stakeholder-partnership": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "partner",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "partial"
+  },
+  "ipe-16-digital-equity-technology": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-17-responding-to-feedback": {
+   "domains": [
+    "human-centered-communication",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "listen-inquire",
+    "conflict-repair",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-18-cross-division-coordination": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-19-history-public-institutions": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-20-tribal-sovereignty": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "partner",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "policy",
+    "community"
+   ],
+   "deferral": "whole"
+  },
+  "ipe-21-race-disability-outcomes": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-22-immigration-system-navigation": {
+   "domains": [
+    "systems-leadership",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community",
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-23-lgbtqia2s-inclusion-privacy": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "govern-resource",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "partial"
+  },
+  "ipe-24-religion-spirituality-practice": {
+   "domains": [
+    "organizational-stewardship",
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "build-access",
+    "shift-perspective",
+    "adapt-behavior"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "ipe-25-trauma-responsive-administration": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "lead-change",
+    "build-access"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-26-power-conflict-repair": {
+   "domains": [
+    "human-centered-communication",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "conflict-repair",
+    "listen-inquire",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-27-ethical-decision-making": {
+   "domains": [
+    "systems-leadership",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "purpose-accountability"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-28-complex-issue-inquiry": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis",
+    "facilitate"
+   ],
+   "scopes": [
+    "everyone",
+    "program",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-29-reflective-team": {
+   "domains": [
+    "leadership-effectiveness",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "coach-feedback",
+    "purpose-accountability",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-30-policy-procedure-governance": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "govern-resource",
+    "build-access",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "program",
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-31-inclusive-workforce-culture": {
+   "domains": [
+    "leadership-effectiveness",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "develop-others",
+    "sustain-culture"
+   ],
+   "scopes": [
+    "team",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "ipe-32-complaints-incident-learning": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "program",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "ipe-33-responsible-data-evaluation": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-34-co-design-partnership": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "partner",
+    "govern-resource"
+   ],
+   "scopes": [
+    "program",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-35-inclusive-learning-design": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "continuity",
+    "build-access",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-36-leading-difficult-dialogue": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "facilitate",
+    "conflict-repair",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "program",
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-37-resource-allocation-equity": {
+   "domains": [
+    "organizational-stewardship",
+    "systems-leadership"
+   ],
+   "competencies": [
+    "govern-resource",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "across-teams",
+    "organization"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-38-sustaining-voluntary-learning": {
+   "domains": [
+    "organizational-stewardship",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "sustain-culture",
+    "continuity",
+    "develop-others"
+   ],
+   "scopes": [
+    "team",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "ipe-capstone-intercultural-practice": {
+   "domains": [
+    "systems-leadership",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "partner",
+    "lead-change",
+    "purpose-accountability"
+   ],
+   "scopes": [
+    "team",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "partial"
+  },
+  "job-design-and-the-posting": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "build-access"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "language-access-as-a-design": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone",
+    "program"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "language-access-plan": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "govern-resource",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "program",
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "policy"
+   ],
+   "deferral": "none"
+  },
+  "lgbtq-inclusion-in-disability-services": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "mobility-acting-promotion": {
+   "domains": [
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "develop-others"
+   ],
+   "scopes": [
+    "team",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "neurodiversity-and-cognitive-difference": {
+   "domains": [
+    "organizational-stewardship",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "onboarding-and-first-90-days": {
+   "domains": [
+    "leadership-effectiveness",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "build-access"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "outcomes-not-intentions": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "performance-and-development": {
+   "domains": [
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "coach-feedback",
+    "develop-others"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "pi-equitable-oversight-design": {
+   "domains": [
+    "systems-leadership",
+    "organizational-stewardship"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "evidence",
+    "govern-resource"
+   ],
+   "scopes": [
+    "program",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "pi-protecting-program-without-harm": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "pi-public-perception-and-culture": {
+   "domains": [
+    "systems-leadership",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "evidence",
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service",
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "pi-what-fraud-enforcement-costs": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "plain-language-in-human-services": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "accessible-communication"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  },
+  "screening-and-selection": {
+   "domains": [
+    "systems-leadership",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "somali-minnesota-brief": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "observe-interpret",
+    "shift-perspective"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "community"
+   ],
+   "deferral": "none"
+  },
+  "sourcing-and-outreach": {
+   "domains": [
+    "systems-leadership",
+    "leadership-effectiveness"
+   ],
+   "competencies": [
+    "equity-analysis",
+    "inclusive-teams"
+   ],
+   "scopes": [
+    "team",
+    "across-teams"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "stay-and-exit-interviews": {
+   "domains": [
+    "leadership-effectiveness",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [],
+   "contexts": [
+    "workforce"
+   ],
+   "deferral": "none"
+  },
+  "teams-in-minimization": {
+   "domains": [
+    "leadership-effectiveness",
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "inclusive-teams",
+    "facilitate"
+   ],
+   "scopes": [
+    "team"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "the-record": {
+   "domains": [
+    "systems-leadership"
+   ],
+   "competencies": [
+    "evidence"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "what-minimization-does-in-dhs-work": {
+   "domains": [
+    "intercultural-fluency"
+   ],
+   "competencies": [
+    "own-culture",
+    "observe-interpret"
+   ],
+   "scopes": [
+    "everyone",
+    "yourself"
+   ],
+   "orientations": [
+    "minimization",
+    "polarization"
+   ],
+   "contexts": [],
+   "deferral": "none"
+  },
+  "working-with-an-interpreter": {
+   "domains": [
+    "human-centered-communication"
+   ],
+   "competencies": [
+    "accessible-communication",
+    "listen-inquire"
+   ],
+   "scopes": [
+    "everyone"
+   ],
+   "orientations": [],
+   "contexts": [
+    "service"
+   ],
+   "deferral": "none"
+  }
+ }
+}
