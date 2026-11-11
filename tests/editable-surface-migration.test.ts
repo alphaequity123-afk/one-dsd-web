@@ -38,6 +38,8 @@ describe("governed editable surface migration", () => {
       ...["dsd-hiring-panel","dsd-advancement-conversation","dsd-accommodation-cliff","dsd-policy-change","dsd-service-redesign","dsd-engagement-late","dsd-report-back","dsd-accessible-form","dsd-interpreter-first-contact","dsd-team-silence","dsd-repair-after-harm","dsd-leadership-bottleneck","dsd-small-group-data"].map(id => `dsd-scenario.${id}`),
       ...["workforce","policy-program-service","community-engagement","access-language","culture-trust","leadership-systems","measurement"].map(id => `domain.${id}`),
       "equity.practice", ...[6,7,8,9,10,11,12,13].map(number => `graduation-path.gp-${number}`),
+      // November 11, 2026: the leadership journey entry, core, five pathways, and intercultural strand.
+      "leadership.journey", ...["core","leading-yourself","leading-a-program","leading-a-team","leading-across-teams","leading-the-division","intercultural-practice"].map(id => `leadership.pathway.${id}`),
           ]);
     // September 12, 2026: the owner ordered all staff-facing wording humanized (plain English, no system or machine language).
     const addedPracticeKeys = ["handoffTitle","handoffBody","handoffUseLabel","draftSourceSummary","draftPreparedPrefix","draftOwnershipBody"];

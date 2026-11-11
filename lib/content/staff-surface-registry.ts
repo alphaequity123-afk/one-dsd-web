@@ -14,6 +14,7 @@ import { LEARNING_JOURNEY_SURFACE } from "./learning-journey";
 import { LEARNING_HUB_SURFACE } from "./learning-hub";
 import { AMPLIFY_SURFACES } from "./amplify";
 import { DSD_TEAM_SURFACE } from "./dsd-team";
+import { LEADERSHIP_JOURNEY_SURFACES } from "./leadership-journey";
 import { WORK_LEARNING_SURFACE } from "./work-learning";
 import { EQUITY_TOOLKIT_SURFACE } from "./equity-toolkit";
 import { COMMUNITY_CONNECTIONS_SURFACE } from "./community-connections";
@@ -771,6 +772,7 @@ export const EDITABLE_SURFACE_REGISTRY: readonly StaffSurfaceDefinition[] = Obje
   ...DOMAIN_SURFACES,
   EQUITY_PRACTICE_SURFACE,
   ...GRADUATION_PATHS.map(graduationPathDefinition),
+  ...LEADERSHIP_JOURNEY_SURFACES,
   ...BRIEFS.map(communityBriefDefinition),
 ]);
 

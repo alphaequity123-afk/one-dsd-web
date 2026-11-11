@@ -1,0 +1,6362 @@
+{
+ "provenance": {
+  "basis": "titles",
+  "producedBy": "agent-first-pass",
+  "ownerReviewed": false,
+  "date": "2026-11-11"
+ },
+ "lessons": {
+  "acceptance-in-dhs-work/acc-curiosity": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "acceptance-in-dhs-work/acc-distinct": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "acceptance-in-dhs-work/acc-next": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "acceptance",
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "acceptance-in-dhs-work/acc-next-step": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "minimization",
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "acceptance-in-dhs-work/acc-real": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "acceptance-in-dhs-work/acc-trap": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [
+    "minimization",
+    "polarization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "acceptance-in-dhs-work/acc-what-it-is": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "acceptance-in-dhs-work/acc-who": {
+   "competencies": [
+    "equity-analysis",
+    "observe-interpret"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "accessibility-as-leadership-responsibility/a9-four-doors": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "accessibility-as-leadership-responsibility/a9-how-leaders-work": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "accessibility-as-leadership-responsibility/a9-how-we-got-here": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "accessibility-as-leadership-responsibility/a9-practice-and-repair": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "accessibility-as-leadership-responsibility/a9-two-paths": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "accessibility-as-leadership-responsibility/a9-what-you-own": {
+   "competencies": [
+    "build-access",
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "anti-racism-resource/ar-club-compliance": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "anti-racism-resource/ar-continuum": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "anti-racism-resource/ar-culture": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "anti-racism-resource/ar-place": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "anti-racism-resource/ar-tokenism": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "anti-racism-resource/ar-transform": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "anti-racism-resource/ar-whose-work": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "career-mentorship-and-sponsorship/ms-one": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "career-mentorship-and-sponsorship/ms-sponsor": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "career-mentorship-and-sponsorship/ms-token": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "career-mentorship-and-sponsorship/ms-two": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-anglo/cq-anglo-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-anglo/cq-anglo-2": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-anglo/cq-anglo-3": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-anglo/cq-anglo-4": {
+   "competencies": [
+    "coach-feedback",
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-arab/cq-arab-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-arab/cq-arab-2": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-arab/cq-arab-3": {
+   "competencies": [
+    "adapt-behavior",
+    "bridge"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-arab/cq-arab-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-confucian-asia/cq-confucian-asia-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-confucian-asia/cq-confucian-asia-2": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-confucian-asia/cq-confucian-asia-3": {
+   "competencies": [
+    "listen-inquire",
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-confucian-asia/cq-confucian-asia-4": {
+   "competencies": [
+    "coach-feedback",
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-eastern-europe/cq-eastern-europe-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-eastern-europe/cq-eastern-europe-2": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-eastern-europe/cq-eastern-europe-3": {
+   "competencies": [
+    "shift-perspective",
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-eastern-europe/cq-eastern-europe-4": {
+   "competencies": [
+    "inclusive-teams",
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-germanic-europe/cq-germanic-europe-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-germanic-europe/cq-germanic-europe-2": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-germanic-europe/cq-germanic-europe-3": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-germanic-europe/cq-germanic-europe-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-latin-america/cq-latin-america-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-latin-america/cq-latin-america-2": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-latin-america/cq-latin-america-3": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-latin-america/cq-latin-america-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-latin-europe/cq-latin-europe-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-latin-europe/cq-latin-europe-2": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-latin-europe/cq-latin-europe-3": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-latin-europe/cq-latin-europe-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-leading-multicultural-teams/cq-leading-multicultural-teams-1": {
+   "competencies": [
+    "observe-interpret",
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-leading-multicultural-teams/cq-leading-multicultural-teams-2": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-leading-multicultural-teams/cq-leading-multicultural-teams-3": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-leading-multicultural-teams/cq-leading-multicultural-teams-4": {
+   "competencies": [
+    "inclusive-teams",
+    "bridge"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-nordic-europe/cq-nordic-europe-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-nordic-europe/cq-nordic-europe-2": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-nordic-europe/cq-nordic-europe-3": {
+   "competencies": [
+    "observe-interpret",
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-nordic-europe/cq-nordic-europe-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-southern-asia/cq-southern-asia-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-southern-asia/cq-southern-asia-2": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-southern-asia/cq-southern-asia-3": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-southern-asia/cq-southern-asia-4": {
+   "competencies": [
+    "inclusive-teams",
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-sub-saharan-africa/cq-sub-saharan-africa-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-sub-saharan-africa/cq-sub-saharan-africa-2": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-sub-saharan-africa/cq-sub-saharan-africa-3": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cq-sub-saharan-africa/cq-sub-saharan-africa-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "critical-incidents-in-the-work/ci-circle": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "critical-incidents-in-the-work/ci-one": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "critical-incidents-in-the-work/ci-what": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "critical-incidents-in-the-work/ci-write": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-broker-as-a-role/cb-not": {
+   "competencies": [
+    "bridge"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-broker-as-a-role/cb-one": {
+   "competencies": [
+    "bridge",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-broker-as-a-role/cb-role": {
+   "competencies": [
+    "bridge"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-broker-as-a-role/cb-scope": {
+   "competencies": [
+    "bridge",
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-humility-vs-checklist/hu-both": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-humility-vs-checklist/hu-check": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-humility-vs-checklist/hu-one": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-humility-vs-checklist/hu-sheet": {
+   "competencies": [
+    "listen-inquire",
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-experience-10": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-experience-11": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-expression-7": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-expression-8": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-expression-9": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-household-3": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-household-4": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-orientation-1": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-orientation-2": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-place-5": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-place-6": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-practice-12": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-american/ci-american-practice-13": {
+   "competencies": [
+    "own-culture",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-experience-10": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-experience-11": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-expression-7": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-expression-8": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-expression-9": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-household-3": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-household-4": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-orientation-1": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-orientation-2": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-place-5": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-place-6": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-practice-12": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "cultural-intelligence-minnesota/ci-minnesota-practice-13": {
+   "competencies": [
+    "own-culture",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "culture-without-theater/cu-educate": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "culture-without-theater/cu-policy": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "culture-without-theater/cu-poster": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "culture-without-theater/cu-token": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "culture-without-theater/cu-tuesday": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dhs-equity-analysis-toolkit/ea-eight-step-loop": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dhs-equity-analysis-toolkit/ea-how-we-skip": {
+   "competencies": [
+    "equity-analysis",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dhs-equity-analysis-toolkit/ea-practice-this-week": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dhs-equity-analysis-toolkit/ea-two-frames": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dhs-equity-analysis-toolkit/ea-what-we-mean": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dhs-equity-analysis-toolkit/ea-who-is-missed": {
+   "competencies": [
+    "equity-analysis",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accessibility-auditing-and-barrier-analysis/accessibility-auditing-and-barrier-analysis-1": {
+   "competencies": [
+    "evidence",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accessibility-auditing-and-barrier-analysis/accessibility-auditing-and-barrier-analysis-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accessibility-auditing-and-barrier-analysis/accessibility-auditing-and-barrier-analysis-3": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accessibility-auditing-and-barrier-analysis/accessibility-auditing-and-barrier-analysis-4": {
+   "competencies": [
+    "lead-change",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accessible-content-and-digital-learning/accessible-content-and-digital-learning-1": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accessible-content-and-digital-learning/accessible-content-and-digital-learning-2": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accessible-content-and-digital-learning/accessible-content-and-digital-learning-3": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accessible-content-and-digital-learning/accessible-content-and-digital-learning-4": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accommodations-and-interactive-process/accommodations-and-interactive-process-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accommodations-and-interactive-process/accommodations-and-interactive-process-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accommodations-and-interactive-process/accommodations-and-interactive-process-3": {
+   "competencies": [
+    "build-access",
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-accommodations-and-interactive-process/accommodations-and-interactive-process-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-allyship-and-everyday-action/allyship-and-everyday-action-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-allyship-and-everyday-action/allyship-and-everyday-action-2": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-allyship-and-everyday-action/allyship-and-everyday-action-3": {
+   "competencies": [
+    "partner",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-allyship-and-everyday-action/allyship-and-everyday-action-4": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-capstone-remove-a-real-barrier/capstone-remove-a-real-barrier-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-capstone-remove-a-real-barrier/capstone-remove-a-real-barrier-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-capstone-remove-a-real-barrier/capstone-remove-a-real-barrier-3": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-capstone-remove-a-real-barrier/capstone-remove-a-real-barrier-4": {
+   "competencies": [
+    "lead-change",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-capstone-remove-a-real-barrier/capstone-remove-a-real-barrier-5": {
+   "competencies": [
+    "lead-change",
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-change-management-and-implementation/change-management-and-implementation-1": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-change-management-and-implementation/change-management-and-implementation-2": {
+   "competencies": [
+    "purpose-accountability",
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-change-management-and-implementation/change-management-and-implementation-3": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-change-management-and-implementation/change-management-and-implementation-4": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-change-management-and-implementation/change-management-and-implementation-5": {
+   "competencies": [
+    "lead-change",
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-co-design-and-lived-experience/co-design-and-lived-experience-1": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-co-design-and-lived-experience/co-design-and-lived-experience-2": {
+   "competencies": [
+    "partner",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-co-design-and-lived-experience/co-design-and-lived-experience-3": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-co-design-and-lived-experience/co-design-and-lived-experience-4": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-conflict-resolution-and-neurodiversity/conflict-resolution-and-neurodiversity-1": {
+   "competencies": [
+    "conflict-repair",
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-conflict-resolution-and-neurodiversity/conflict-resolution-and-neurodiversity-2": {
+   "competencies": [
+    "observe-interpret",
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-conflict-resolution-and-neurodiversity/conflict-resolution-and-neurodiversity-3": {
+   "competencies": [
+    "conflict-repair",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-conflict-resolution-and-neurodiversity/conflict-resolution-and-neurodiversity-4": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-conflict-resolution-and-neurodiversity/conflict-resolution-and-neurodiversity-5": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-de-escalation-without-coercion/de-escalation-without-coercion-1": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-de-escalation-without-coercion/de-escalation-without-coercion-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-de-escalation-without-coercion/de-escalation-without-coercion-3": {
+   "competencies": [
+    "adapt-behavior",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-de-escalation-without-coercion/de-escalation-without-coercion-4": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-de-escalation-without-coercion/de-escalation-without-coercion-5": {
+   "competencies": [
+    "observe-interpret",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-data-privacy-and-measurement/disability-data-privacy-and-measurement-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-data-privacy-and-measurement/disability-data-privacy-and-measurement-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-data-privacy-and-measurement/disability-data-privacy-and-measurement-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-data-privacy-and-measurement/disability-data-privacy-and-measurement-4": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-data-privacy-and-measurement/disability-data-privacy-and-measurement-5": {
+   "competencies": [
+    "evidence",
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-diversity-belonging/disability-diversity-belonging-1": {
+   "competencies": [
+    "evidence",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-diversity-belonging/disability-diversity-belonging-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-diversity-belonging/disability-diversity-belonging-3": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-disability-diversity-belonging/disability-diversity-belonging-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-facilitation-and-peer-learning/facilitation-and-peer-learning-1": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-facilitation-and-peer-learning/facilitation-and-peer-learning-2": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-facilitation-and-peer-learning/facilitation-and-peer-learning-3": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-facilitation-and-peer-learning/facilitation-and-peer-learning-4": {
+   "competencies": [
+    "facilitate",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-governance-accountability-resourcing/governance-accountability-resourcing-1": {
+   "competencies": [
+    "purpose-accountability",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-governance-accountability-resourcing/governance-accountability-resourcing-2": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-governance-accountability-resourcing/governance-accountability-resourcing-3": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-governance-accountability-resourcing/governance-accountability-resourcing-4": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-governance-accountability-resourcing/governance-accountability-resourcing-5": {
+   "competencies": [
+    "govern-resource",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-meetings-events-learning/inclusive-meetings-events-learning-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-meetings-events-learning/inclusive-meetings-events-learning-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-meetings-events-learning/inclusive-meetings-events-learning-3": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-meetings-events-learning/inclusive-meetings-events-learning-4": {
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-meetings-events-learning/inclusive-meetings-events-learning-5": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-policy-procurement-technology/inclusive-policy-procurement-technology-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-policy-procurement-technology/inclusive-policy-procurement-technology-2": {
+   "competencies": [
+    "govern-resource",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-policy-procurement-technology/inclusive-policy-procurement-technology-3": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-policy-procurement-technology/inclusive-policy-procurement-technology-4": {
+   "competencies": [
+    "build-access",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-policy-procurement-technology/inclusive-policy-procurement-technology-5": {
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-supervision-and-team-culture/inclusive-supervision-and-team-culture-1": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-supervision-and-team-culture/inclusive-supervision-and-team-culture-2": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-supervision-and-team-culture/inclusive-supervision-and-team-culture-3": {
+   "competencies": [
+    "inclusive-teams",
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-supervision-and-team-culture/inclusive-supervision-and-team-culture-4": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-inclusive-supervision-and-team-culture/inclusive-supervision-and-team-culture-5": {
+   "competencies": [
+    "inclusive-teams",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-leadership-case-for-inclusion/leadership-case-for-inclusion-1": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-leadership-case-for-inclusion/leadership-case-for-inclusion-2": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-leadership-case-for-inclusion/leadership-case-for-inclusion-3": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-leadership-case-for-inclusion/leadership-case-for-inclusion-4": {
+   "competencies": [
+    "purpose-accountability",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-measuring-culture-and-sustained-progress/measuring-culture-and-sustained-progress-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-measuring-culture-and-sustained-progress/measuring-culture-and-sustained-progress-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-measuring-culture-and-sustained-progress/measuring-culture-and-sustained-progress-3": {
+   "competencies": [
+    "partner",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-measuring-culture-and-sustained-progress/measuring-culture-and-sustained-progress-4": {
+   "competencies": [
+    "sustain-culture",
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-rights-policy-and-organizational-duties/rights-policy-and-organizational-duties-1": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-rights-policy-and-organizational-duties/rights-policy-and-organizational-duties-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-rights-policy-and-organizational-duties/rights-policy-and-organizational-duties-3": {
+   "competencies": [
+    "equity-analysis",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-rights-policy-and-organizational-duties/rights-policy-and-organizational-duties-4": {
+   "competencies": [
+    "govern-resource",
+    "continuity"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-trauma-informed-culturally-responsive-practice/trauma-informed-culturally-responsive-practice-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-trauma-informed-culturally-responsive-practice/trauma-informed-culturally-responsive-practice-2": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-trauma-informed-culturally-responsive-practice/trauma-informed-culturally-responsive-practice-3": {
+   "competencies": [
+    "listen-inquire",
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-trauma-informed-culturally-responsive-practice/trauma-informed-culturally-responsive-practice-4": {
+   "competencies": [
+    "shift-perspective",
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "di-trauma-informed-culturally-responsive-practice/trauma-informed-culturally-responsive-practice-5": {
+   "competencies": [
+    "equity-analysis",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a02-whiteness-institutional-norm/div-a02-whiteness-institutional-norm-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a02-whiteness-institutional-norm/div-a02-whiteness-institutional-norm-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a02-whiteness-institutional-norm/div-a02-whiteness-institutional-norm-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a02-whiteness-institutional-norm/div-a02-whiteness-institutional-norm-4": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a08-bias-reduction-interventions/div-a08-bias-reduction-interventions-1": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a08-bias-reduction-interventions/div-a08-bias-reduction-interventions-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a08-bias-reduction-interventions/div-a08-bias-reduction-interventions-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a08-bias-reduction-interventions/div-a08-bias-reduction-interventions-4": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a09-intergroup-contact/div-a09-intergroup-contact-1": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a09-intergroup-contact/div-a09-intergroup-contact-2": {
+   "competencies": [
+    "facilitate",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a09-intergroup-contact/div-a09-intergroup-contact-3": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a09-intergroup-contact/div-a09-intergroup-contact-4": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a10-moral-exclusion-dehumanization/div-a10-moral-exclusion-dehumanization-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a10-moral-exclusion-dehumanization/div-a10-moral-exclusion-dehumanization-2": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a10-moral-exclusion-dehumanization/div-a10-moral-exclusion-dehumanization-3": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-a10-moral-exclusion-dehumanization/div-a10-moral-exclusion-dehumanization-4": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f01-white-privilege/div-f01-white-privilege-1": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f01-white-privilege/div-f01-white-privilege-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f01-white-privilege/div-f01-white-privilege-3": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f01-white-privilege/div-f01-white-privilege-4": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f02-microaggressions/div-f02-microaggressions-1": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f02-microaggressions/div-f02-microaggressions-2": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f02-microaggressions/div-f02-microaggressions-3": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f02-microaggressions/div-f02-microaggressions-4": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f03-intercultural-communication/div-f03-intercultural-communication-1": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f03-intercultural-communication/div-f03-intercultural-communication-2": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f03-intercultural-communication/div-f03-intercultural-communication-3": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f03-intercultural-communication/div-f03-intercultural-communication-4": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f04-cultural-values/div-f04-cultural-values-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f04-cultural-values/div-f04-cultural-values-2": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f04-cultural-values/div-f04-cultural-values-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f04-cultural-values/div-f04-cultural-values-4": {
+   "competencies": [
+    "bridge"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f05-implicit-bias-iat/div-f05-implicit-bias-iat-1": {
+   "competencies": [
+    "evidence",
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f05-implicit-bias-iat/div-f05-implicit-bias-iat-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f05-implicit-bias-iat/div-f05-implicit-bias-iat-3": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f05-implicit-bias-iat/div-f05-implicit-bias-iat-4": {
+   "competencies": [
+    "equity-analysis",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f06-social-identity/div-f06-social-identity-1": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f06-social-identity/div-f06-social-identity-2": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f06-social-identity/div-f06-social-identity-3": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f06-social-identity/div-f06-social-identity-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f07-stereotypes-prejudice-discrimination/div-f07-stereotypes-prejudice-discrimination-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f07-stereotypes-prejudice-discrimination/div-f07-stereotypes-prejudice-discrimination-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f07-stereotypes-prejudice-discrimination/div-f07-stereotypes-prejudice-discrimination-3": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f07-stereotypes-prejudice-discrimination/div-f07-stereotypes-prejudice-discrimination-4": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f08-ethnocentrism/div-f08-ethnocentrism-1": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f08-ethnocentrism/div-f08-ethnocentrism-2": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f08-ethnocentrism/div-f08-ethnocentrism-3": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f08-ethnocentrism/div-f08-ethnocentrism-4": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f09-intersectionality/div-f09-intersectionality-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f09-intersectionality/div-f09-intersectionality-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f09-intersectionality/div-f09-intersectionality-3": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-f09-intersectionality/div-f09-intersectionality-4": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i01-microinterventions/div-i01-microinterventions-lesson-1": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i01-microinterventions/div-i01-microinterventions-lesson-2": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i01-microinterventions/div-i01-microinterventions-lesson-3": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i01-microinterventions/div-i01-microinterventions-lesson-4": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i02-ambiguous-bias/div-i02-ambiguous-bias-lesson-1": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i02-ambiguous-bias/div-i02-ambiguous-bias-lesson-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i02-ambiguous-bias/div-i02-ambiguous-bias-lesson-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i02-ambiguous-bias/div-i02-ambiguous-bias-lesson-4": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i04-code-switching/div-i04-code-switching-lesson-1": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i04-code-switching/div-i04-code-switching-lesson-2": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i04-code-switching/div-i04-code-switching-lesson-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i04-code-switching/div-i04-code-switching-lesson-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i05-colorism/div-i05-colorism-lesson-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i05-colorism/div-i05-colorism-lesson-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i05-colorism/div-i05-colorism-lesson-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i05-colorism/div-i05-colorism-lesson-4": {
+   "competencies": [
+    "accessible-communication",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i08-racial-socialization/div-i08-racial-socialization-lesson-1": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i08-racial-socialization/div-i08-racial-socialization-lesson-2": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i08-racial-socialization/div-i08-racial-socialization-lesson-3": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i08-racial-socialization/div-i08-racial-socialization-lesson-4": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i10-receiving-feedback/div-i10-receiving-feedback-lesson-1": {
+   "competencies": [
+    "observe-interpret",
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i10-receiving-feedback/div-i10-receiving-feedback-lesson-2": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i10-receiving-feedback/div-i10-receiving-feedback-lesson-3": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "div-i10-receiving-feedback/div-i10-receiving-feedback-lesson-4": {
+   "competencies": [
+    "conflict-repair",
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-02-service-coordination-navigation/dsd-service-coordination-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-02-service-coordination-navigation/dsd-service-coordination-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-02-service-coordination-navigation/dsd-service-coordination-3": {
+   "competencies": [
+    "observe-interpret",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-02-service-coordination-navigation/dsd-service-coordination-4": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-07-executive-function-strengths/dsd-executive-function-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-07-executive-function-strengths/dsd-executive-function-2": {
+   "competencies": [
+    "observe-interpret",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-07-executive-function-strengths/dsd-executive-function-3": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-07-executive-function-strengths/dsd-executive-function-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-08-brain-injury-practice/dsd-brain-injury-1": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-08-brain-injury-practice/dsd-brain-injury-2": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-08-brain-injury-practice/dsd-brain-injury-3": {
+   "competencies": [
+    "listen-inquire",
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-08-brain-injury-practice/dsd-brain-injury-4": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-08-brain-injury-practice/dsd-brain-injury-5": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-13-coaching-direct-support/dsd-coaching-direct-support-1": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-13-coaching-direct-support/dsd-coaching-direct-support-2": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-13-coaching-direct-support/dsd-coaching-direct-support-3": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-13-coaching-direct-support/dsd-coaching-direct-support-4": {
+   "competencies": [
+    "coach-feedback",
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-13-coaching-direct-support/dsd-coaching-direct-support-5": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-housing-instability/dsd-housing-instability-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-housing-instability/dsd-housing-instability-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-housing-instability/dsd-housing-instability-3": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-housing-instability/dsd-housing-instability-4": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-justice-involvement-reentry/dsd-justice-involvement-reentry-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-justice-involvement-reentry/dsd-justice-involvement-reentry-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-justice-involvement-reentry/dsd-justice-involvement-reentry-3": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-justice-involvement-reentry/dsd-justice-involvement-reentry-4": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-mental-health-psychiatric-disability/dsd-mental-health-psychiatric-disability-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-mental-health-psychiatric-disability/dsd-mental-health-psychiatric-disability-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-mental-health-psychiatric-disability/dsd-mental-health-psychiatric-disability-3": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-mental-health-psychiatric-disability/dsd-mental-health-psychiatric-disability-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-positive-supports/dsd-positive-supports-1": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-positive-supports/dsd-positive-supports-2": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-positive-supports/dsd-positive-supports-3": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "dsd-positive-supports/dsd-positive-supports-4": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-life-cycle-as-a-system/lc-adapt": {
+   "competencies": [
+    "lead-change",
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "acceptance",
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-life-cycle-as-a-system/lc-doors": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-life-cycle-as-a-system/lc-gates": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-life-cycle-as-a-system/lc-min": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-life-cycle-as-a-system/lc-one-gate": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-life-cycle-as-a-system/lc-people-system": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-life-cycle-as-a-system/lc-sit": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-life-cycle-as-a-system/lc-who-counts": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-viewpoint-and-wellbeing-surveys/vs-act": {
+   "competencies": [
+    "lead-change",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-viewpoint-and-wellbeing-surveys/vs-blend": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-viewpoint-and-wellbeing-surveys/vs-not": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "employee-viewpoint-and-wellbeing-surveys/vs-well": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equal-opportunity-in-employment/eo-both": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equal-opportunity-in-employment/eo-cycle": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equal-opportunity-in-employment/eo-door": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equal-opportunity-in-employment/eo-lens": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-centered-leadership/el-agenda": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-centered-leadership/el-coach": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-centered-leadership/el-legal": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-centered-leadership/el-one": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-centered-leadership/el-own": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-centered-leadership/el-repair": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-champion-contribution-workflow/ch-doors": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-champion-contribution-workflow/ch-handoff": {
+   "competencies": [
+    "continuity"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-champion-contribution-workflow/ch-role": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-champion-contribution-workflow/ch-speak": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-champion-contribution-workflow/ch-steps": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-champion-contribution-workflow/ch-toolkit": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-inclusion-leadership-and-systems/ei-advanced": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-inclusion-leadership-and-systems/ei-blend": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-inclusion-leadership-and-systems/ei-five": {
+   "competencies": [
+    "equity-analysis",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-inclusion-leadership-and-systems/ei-govern": {
+   "competencies": [
+    "partner",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-inclusion-leadership-and-systems/ei-measure": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-inclusion-leadership-and-systems/ei-outside": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "equity-inclusion-leadership-and-systems/ei-week": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "facilitators-guide-equity-inclusion-curriculum/fg-access": {
+   "competencies": [
+    "facilitate",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "facilitators-guide-equity-inclusion-curriculum/fg-after": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "facilitators-guide-equity-inclusion-curriculum/fg-dont": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "facilitators-guide-equity-inclusion-curriculum/fg-not-you": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "facilitators-guide-equity-inclusion-curriculum/fg-open": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "facilitators-guide-equity-inclusion-curriculum/fg-polar": {
+   "competencies": [
+    "facilitate",
+    "conflict-repair"
+   ],
+   "orientations": [
+    "polarization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "from-noticing-to-shifting/sh-hire": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "from-noticing-to-shifting/sh-map": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "minimization",
+    "acceptance",
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "from-noticing-to-shifting/sh-meeting": {
+   "competencies": [
+    "build-access",
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "from-noticing-to-shifting/sh-one": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "from-noticing-to-shifting/sh-packet": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "from-noticing-to-shifting/sh-polarization": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "polarization",
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-accommodation-transitions/gc-accommodation-transitions-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-accommodation-transitions/gc-accommodation-transitions-2": {
+   "competencies": [
+    "continuity",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-accommodation-transitions/gc-accommodation-transitions-3": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-accommodation-transitions/gc-accommodation-transitions-4": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-age-inclusion/gc-age-inclusion-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-age-inclusion/gc-age-inclusion-2": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-age-inclusion/gc-age-inclusion-3": {
+   "competencies": [
+    "evidence",
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-age-inclusion/gc-age-inclusion-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-automated-decisions/gc-automated-decisions-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-automated-decisions/gc-automated-decisions-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-automated-decisions/gc-automated-decisions-3": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-automated-decisions/gc-automated-decisions-4": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-career-pathways-succession/gc-career-pathways-succession-1": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-career-pathways-succession/gc-career-pathways-succession-2": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-career-pathways-succession/gc-career-pathways-succession-3": {
+   "competencies": [
+    "develop-others",
+    "continuity"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-career-pathways-succession/gc-career-pathways-succession-4": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-employee-resource-groups/gc-employee-resource-groups-1": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-employee-resource-groups/gc-employee-resource-groups-2": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-employee-resource-groups/gc-employee-resource-groups-3": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-employee-resource-groups/gc-employee-resource-groups-4": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-new-supervisor-inclusive-leadership/gc-new-supervisor-inclusive-leadership-1": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-new-supervisor-inclusive-leadership/gc-new-supervisor-inclusive-leadership-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-new-supervisor-inclusive-leadership/gc-new-supervisor-inclusive-leadership-3": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-new-supervisor-inclusive-leadership/gc-new-supervisor-inclusive-leadership-4": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-remote-hybrid-equity/gc-remote-hybrid-equity-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-remote-hybrid-equity/gc-remote-hybrid-equity-2": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-remote-hybrid-equity/gc-remote-hybrid-equity-3": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-remote-hybrid-equity/gc-remote-hybrid-equity-4": {
+   "competencies": [
+    "govern-resource",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-respectful-workplace/gc-respectful-workplace-1": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-respectful-workplace/gc-respectful-workplace-2": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-respectful-workplace/gc-respectful-workplace-3": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-respectful-workplace/gc-respectful-workplace-4": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-structural-racism/gc-structural-racism-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-structural-racism/gc-structural-racism-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-structural-racism/gc-structural-racism-3": {
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-structural-racism/gc-structural-racism-4": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-sustaining-the-work/gc-sustaining-the-work-1": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-sustaining-the-work/gc-sustaining-the-work-2": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-sustaining-the-work/gc-sustaining-the-work-3": {
+   "competencies": [
+    "sustain-culture",
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-sustaining-the-work/gc-sustaining-the-work-4": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-using-community-briefs/gc-using-community-briefs-1": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-using-community-briefs/gc-using-community-briefs-2": {
+   "competencies": [
+    "partner",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-using-community-briefs/gc-using-community-briefs-3": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "gc-using-community-briefs/gc-using-community-briefs-4": {
+   "competencies": [
+    "partner",
+    "bridge"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-acceptance/idi-acceptance-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-acceptance/idi-acceptance-2": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-acceptance/idi-acceptance-3": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-acceptance/idi-acceptance-4": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "acceptance",
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-adaptation/idi-adaptation-1": {
+   "competencies": [
+    "adapt-behavior",
+    "shift-perspective"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-adaptation/idi-adaptation-2": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-adaptation/idi-adaptation-3": {
+   "competencies": [
+    "own-culture",
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-adaptation/idi-adaptation-4": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-denial/idi-denial-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "denial"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-denial/idi-denial-2": {
+   "competencies": [
+    "observe-interpret",
+    "inclusive-teams"
+   ],
+   "orientations": [
+    "denial"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-denial/idi-denial-3": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [
+    "denial"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-denial/idi-denial-4": {
+   "competencies": [
+    "shift-perspective",
+    "coach-feedback"
+   ],
+   "orientations": [
+    "denial"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-integration/idi-integration-1": {
+   "competencies": [
+    "bridge"
+   ],
+   "orientations": [
+    "integration"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-integration/idi-integration-2": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [
+    "integration"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-integration/idi-integration-3": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [
+    "integration"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-integration/idi-integration-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [
+    "integration"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-minimization/idi-minimization-1": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-minimization/idi-minimization-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-minimization/idi-minimization-3": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-minimization/idi-minimization-4": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-polarization/idi-polarization-1": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "polarization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-polarization/idi-polarization-2": {
+   "competencies": [
+    "observe-interpret",
+    "inclusive-teams"
+   ],
+   "orientations": [
+    "polarization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-polarization/idi-polarization-3": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [
+    "polarization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "idi-polarization/idi-polarization-4": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "polarization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "intercultural-competence-without-a-score/ic-maps": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "minimization",
+    "acceptance"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "intercultural-competence-without-a-score/ic-next": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "intercultural-competence-without-a-score/ic-not": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "intercultural-competence-without-a-score/ic-use": {
+   "competencies": [
+    "observe-interpret"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "intercultural-conflict-styles/cs-desk": {
+   "competencies": [
+    "conflict-repair",
+    "adapt-behavior"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "intercultural-conflict-styles/cs-door": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "intercultural-conflict-styles/cs-notice": {
+   "competencies": [
+    "observe-interpret",
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "intercultural-conflict-styles/cs-one": {
+   "competencies": [
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-01-intercultural-practice/ipe-01-1": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-01-intercultural-practice/ipe-01-2": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-01-intercultural-practice/ipe-01-3": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-01-intercultural-practice/ipe-01-4": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-04-person-centered-systems/ipe-04-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-04-person-centered-systems/ipe-04-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-04-person-centered-systems/ipe-04-3": {
+   "competencies": [
+    "build-access",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-04-person-centered-systems/ipe-04-4": {
+   "competencies": [
+    "equity-analysis",
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-05-bias-assumptions-accountability/ipe-05-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-05-bias-assumptions-accountability/ipe-05-2": {
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-05-bias-assumptions-accountability/ipe-05-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-05-bias-assumptions-accountability/ipe-05-4": {
+   "competencies": [
+    "equity-analysis",
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-07-participation-and-voice/ipe-07-1": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-07-participation-and-voice/ipe-07-2": {
+   "competencies": [
+    "build-access",
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-07-participation-and-voice/ipe-07-3": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-07-participation-and-voice/ipe-07-4": {
+   "competencies": [
+    "partner",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-08-choosing-a-learning-focus/ipe-08-1": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-08-choosing-a-learning-focus/ipe-08-2": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-08-choosing-a-learning-focus/ipe-08-3": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-08-choosing-a-learning-focus/ipe-08-4": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-09-accessible-public-communications/ipe-09-1": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-09-accessible-public-communications/ipe-09-2": {
+   "competencies": [
+    "accessible-communication",
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-09-accessible-public-communications/ipe-09-3": {
+   "competencies": [
+    "accessible-communication",
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-09-accessible-public-communications/ipe-09-4": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-10-language-access/ipe-10-1": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-10-language-access/ipe-10-2": {
+   "competencies": [
+    "evidence",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-10-language-access/ipe-10-3": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-10-language-access/ipe-10-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-11-inclusive-meetings/ipe-11-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-11-inclusive-meetings/ipe-11-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-11-inclusive-meetings/ipe-11-3": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-11-inclusive-meetings/ipe-11-4": {
+   "competencies": [
+    "build-access",
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-12-policy-writing-equity-lens/ipe-12-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-12-policy-writing-equity-lens/ipe-12-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-12-policy-writing-equity-lens/ipe-12-3": {
+   "competencies": [
+    "equity-analysis",
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-12-policy-writing-equity-lens/ipe-12-4": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-13-program-service-design/ipe-13-1": {
+   "competencies": [
+    "build-access",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-13-program-service-design/ipe-13-2": {
+   "competencies": [
+    "partner",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-13-program-service-design/ipe-13-3": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-13-program-service-design/ipe-13-4": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-16-digital-equity-technology/ipe-16-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-16-digital-equity-technology/ipe-16-2": {
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-16-digital-equity-technology/ipe-16-3": {
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-16-digital-equity-technology/ipe-16-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-18-cross-division-coordination/ipe-18-1": {
+   "competencies": [
+    "continuity"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-18-cross-division-coordination/ipe-18-2": {
+   "competencies": [
+    "continuity"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-18-cross-division-coordination/ipe-18-3": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-18-cross-division-coordination/ipe-18-4": {
+   "competencies": [
+    "equity-analysis",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-19-history-public-institutions/ipe-19-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-19-history-public-institutions/ipe-19-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-19-history-public-institutions/ipe-19-3": {
+   "competencies": [
+    "partner",
+    "shift-perspective"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-19-history-public-institutions/ipe-19-4": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-24-religion-spirituality-practice/ipe-24-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-24-religion-spirituality-practice/ipe-24-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-24-religion-spirituality-practice/ipe-24-3": {
+   "competencies": [
+    "listen-inquire",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-24-religion-spirituality-practice/ipe-24-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-25-trauma-responsive-administration/ipe-25-1": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-25-trauma-responsive-administration/ipe-25-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-25-trauma-responsive-administration/ipe-25-3": {
+   "competencies": [
+    "conflict-repair",
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-25-trauma-responsive-administration/ipe-25-4": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-27-ethical-decision-making/ipe-27-1": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-27-ethical-decision-making/ipe-27-2": {
+   "competencies": [
+    "shift-perspective",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-27-ethical-decision-making/ipe-27-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-27-ethical-decision-making/ipe-27-4": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-28-complex-issue-inquiry/ipe-28-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-28-complex-issue-inquiry/ipe-28-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-28-complex-issue-inquiry/ipe-28-3": {
+   "competencies": [
+    "evidence",
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-28-complex-issue-inquiry/ipe-28-4": {
+   "competencies": [
+    "facilitate",
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-29-reflective-team/ipe-29-1": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-29-reflective-team/ipe-29-2": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-29-reflective-team/ipe-29-3": {
+   "competencies": [
+    "coach-feedback",
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-29-reflective-team/ipe-29-4": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-30-policy-procedure-governance/ipe-30-1": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-30-policy-procedure-governance/ipe-30-2": {
+   "competencies": [
+    "govern-resource",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-30-policy-procedure-governance/ipe-30-3": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-30-policy-procedure-governance/ipe-30-4": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-31-inclusive-workforce-culture/ipe-31-1": {
+   "competencies": [
+    "sustain-culture",
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-31-inclusive-workforce-culture/ipe-31-2": {
+   "competencies": [
+    "inclusive-teams",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-31-inclusive-workforce-culture/ipe-31-3": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-31-inclusive-workforce-culture/ipe-31-4": {
+   "competencies": [
+    "equity-analysis",
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-32-complaints-incident-learning/ipe-32-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-32-complaints-incident-learning/ipe-32-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-32-complaints-incident-learning/ipe-32-3": {
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-32-complaints-incident-learning/ipe-32-4": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-33-responsible-data-evaluation/ipe-33-1": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-33-responsible-data-evaluation/ipe-33-2": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-33-responsible-data-evaluation/ipe-33-3": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-33-responsible-data-evaluation/ipe-33-4": {
+   "competencies": [
+    "evidence",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-34-co-design-partnership/ipe-34-1": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-34-co-design-partnership/ipe-34-2": {
+   "competencies": [
+    "partner",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-34-co-design-partnership/ipe-34-3": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-34-co-design-partnership/ipe-34-4": {
+   "competencies": [
+    "partner"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-35-inclusive-learning-design/ipe-35-1": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-35-inclusive-learning-design/ipe-35-2": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-35-inclusive-learning-design/ipe-35-3": {
+   "competencies": [
+    "continuity"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-35-inclusive-learning-design/ipe-35-4": {
+   "competencies": [
+    "continuity",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-36-leading-difficult-dialogue/ipe-36-1": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-36-leading-difficult-dialogue/ipe-36-2": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-36-leading-difficult-dialogue/ipe-36-3": {
+   "competencies": [
+    "facilitate",
+    "conflict-repair"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-36-leading-difficult-dialogue/ipe-36-4": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-37-resource-allocation-equity/ipe-37-1": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-37-resource-allocation-equity/ipe-37-2": {
+   "competencies": [
+    "govern-resource",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-37-resource-allocation-equity/ipe-37-3": {
+   "competencies": [
+    "evidence",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-37-resource-allocation-equity/ipe-37-4": {
+   "competencies": [
+    "govern-resource",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-38-sustaining-voluntary-learning/ipe-38-1": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-38-sustaining-voluntary-learning/ipe-38-2": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-38-sustaining-voluntary-learning/ipe-38-3": {
+   "competencies": [
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "ipe-38-sustaining-voluntary-learning/ipe-38-4": {
+   "competencies": [
+    "continuity",
+    "sustain-culture"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "job-design-and-the-posting/jd-access": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "job-design-and-the-posting/jd-essential": {
+   "competencies": [
+    "equity-analysis",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "job-design-and-the-posting/jd-gate": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "job-design-and-the-posting/jd-lock": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "job-design-and-the-posting/jd-one": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "job-design-and-the-posting/jd-pay": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-as-a-design/la-doors": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-as-a-design/la-favor": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-as-a-design/la-one": {
+   "competencies": [
+    "build-access",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-as-a-design/la-who": {
+   "competencies": [
+    "build-access",
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-plan/lp-clas": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-plan/lp-date": {
+   "competencies": [
+    "purpose-accountability",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-plan/lp-tell": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-plan/lp-vital": {
+   "competencies": [
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-plan/lp-walk": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "language-access-plan/lp-who": {
+   "competencies": [
+    "evidence",
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "mobility-acting-promotion/mo-acting": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "mobility-acting-promotion/mo-one": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "mobility-acting-promotion/mo-promo": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "mobility-acting-promotion/mo-visible": {
+   "competencies": [
+    "develop-others"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "onboarding-and-first-90-days/on-access": {
+   "competencies": [
+    "build-access"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "onboarding-and-first-90-days/on-buddy": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "onboarding-and-first-90-days/on-design": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "onboarding-and-first-90-days/on-one": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "onboarding-and-first-90-days/on-probation": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "performance-and-development/pd-door": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "performance-and-development/pd-one": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "performance-and-development/pd-same": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "performance-and-development/pd-suggest": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "performance-and-development/pd-work": {
+   "competencies": [
+    "coach-feedback"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "pi-equitable-oversight-design/pi-equitable-oversight-design-1": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "pi-equitable-oversight-design/pi-equitable-oversight-design-2": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "pi-equitable-oversight-design/pi-equitable-oversight-design-3": {
+   "competencies": [
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "pi-equitable-oversight-design/pi-equitable-oversight-design-4": {
+   "competencies": [
+    "evidence",
+    "accessible-communication"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "screening-and-selection/ss-doors": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "screening-and-selection/ss-notes": {
+   "competencies": [
+    "evidence"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "screening-and-selection/ss-one": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "screening-and-selection/ss-sample": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "screening-and-selection/ss-tuesday": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "sourcing-and-outreach/so-channel": {
+   "competencies": [
+    "partner",
+    "govern-resource"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "sourcing-and-outreach/so-intern": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "sourcing-and-outreach/so-look": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "sourcing-and-outreach/so-one": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "sourcing-and-outreach/so-who": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "stay-and-exit-interviews/se-door": {
+   "competencies": [
+    "purpose-accountability"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "stay-and-exit-interviews/se-how": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "stay-and-exit-interviews/se-return": {
+   "competencies": [
+    "lead-change"
+   ],
+   "orientations": [
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "stay-and-exit-interviews/se-two": {
+   "competencies": [
+    "listen-inquire"
+   ],
+   "orientations": [],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "teams-in-minimization/tm-attack": {
+   "competencies": [
+    "facilitate",
+    "conflict-repair"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "teams-in-minimization/tm-blank": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "teams-in-minimization/tm-lines": {
+   "competencies": [
+    "facilitate"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "teams-in-minimization/tm-together": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "teams-in-minimization/tm-week": {
+   "competencies": [
+    "inclusive-teams"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "what-minimization-does-in-dhs-work/min-acceptance-adaptation": {
+   "competencies": [
+    "shift-perspective",
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "acceptance",
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "what-minimization-does-in-dhs-work/min-continuum": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "denial",
+    "polarization",
+    "minimization",
+    "acceptance",
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "what-minimization-does-in-dhs-work/min-in-the-work": {
+   "competencies": [
+    "equity-analysis"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "what-minimization-does-in-dhs-work/min-polarization-trap": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "polarization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "what-minimization-does-in-dhs-work/min-practice-this-week": {
+   "competencies": [
+    "adapt-behavior"
+   ],
+   "orientations": [
+    "acceptance",
+    "adaptation"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "what-minimization-does-in-dhs-work/min-what-this-is": {
+   "competencies": [
+    "shift-perspective"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  },
+  "what-minimization-does-in-dhs-work/min-why-it-felt-fair": {
+   "competencies": [
+    "own-culture"
+   ],
+   "orientations": [
+    "minimization"
+   ],
+   "activities": [
+    "learn",
+    "practice"
+   ]
+  }
+ }
+}

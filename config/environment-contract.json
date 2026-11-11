@@ -312,6 +312,27 @@
       "required_when": "the approved OpenAI adapter is activated"
     },
     {
+      "name": "OPENROUTER_API_KEY",
+      "class": "server_secret",
+      "surface": "ai",
+      "example": true,
+      "required_when": "the approved OpenRouter adapter is activated"
+    },
+    {
+      "name": "PAC_OPENROUTER_MODEL",
+      "class": "configuration",
+      "surface": "ai",
+      "example": true,
+      "required_when": "the approved OpenRouter adapter is activated"
+    },
+    {
+      "name": "PAC_REASONING_PROVIDERS",
+      "class": "configuration",
+      "surface": "ai",
+      "example": true,
+      "default": "openai,anthropic,openrouter"
+    },
+    {
       "name": "PAC_AUTONOMY_MAX",
       "class": "feature_control",
       "surface": "operations",

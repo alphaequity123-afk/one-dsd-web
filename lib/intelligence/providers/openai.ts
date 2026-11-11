@@ -101,7 +101,7 @@ function resolveRef(node: JsonSchema, root: JsonSchema): JsonSchema {
 }
 
 /** Remove nulls the vendor emitted only because strict mode widened an optional property. */
-function stripInjectedNulls(value: unknown, schema: unknown, root: JsonSchema, injected: WeakSet<object>, depth = 0): unknown {
+export function stripInjectedNulls(value: unknown, schema: unknown, root: JsonSchema, injected: WeakSet<object>, depth = 0): unknown {
   if (depth > 64 || !isSchemaObject(schema)) return value;
   const node = resolveRef(schema, root);
   if (Array.isArray(value)) {

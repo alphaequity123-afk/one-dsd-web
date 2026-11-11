@@ -5,6 +5,7 @@ import { defineEditableSurface, type EditableSurfaceDefinition } from "../editab
 import type { CoursePack } from "./source-types";
 import { AUTHORED_COURSE_PACKS } from "./authored";
 import { PRACTICE_INFRASTRUCTURE_PATHS } from "../paths-practice-infrastructure";
+import { LEADERSHIP_JOURNEY_SURFACES } from "../leadership-journey";
 
 export const RECOVERED_COURSES: readonly CoursePack[] = recovered.map(pack => CoursePackSchema.parse(pack));
 function courseSurface(pack: CoursePack): EditableSurfaceDefinition {
@@ -24,6 +25,8 @@ export const ALL_COURSE_SURFACES: readonly EditableSurfaceDefinition[] = [...COU
 export const CODE_APPROVED_SURFACE_IDS: ReadonlySet<string> = new Set([
   ...AUTHORED_COURSE_SURFACES.map(surface => surface.surfaceId),
   ...PRACTICE_INFRASTRUCTURE_PATHS.map(path => `graduation-path.${path.id}`),
+  // The leadership journey pages are program-authored and approved in code until the owner publishes a revision.
+  ...LEADERSHIP_JOURNEY_SURFACES.map(surface => surface.surfaceId),
   // The Research and sources page wording is approved in code until the owner publishes a database revision.
   "sources.page",
 ]);
