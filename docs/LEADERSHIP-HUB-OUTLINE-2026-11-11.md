@@ -79,6 +79,8 @@ Each row keeps the draft's intent and changes the mechanism.
 2. **Seven DEIA leadership capabilities** (already in `lib/content/leadership-development.ts`): examine assumptions and use evidence; communicate and facilitate across difference; build inclusion and accessibility into work; develop and sponsor others equitably; connect equity with workforce decisions; share knowledge and build future capability; examine your own cultural default.
 3. **The employee life cycle** (ten stages, already built) as the shared set of real leadership decisions.
 
+**Alignment with the State's framework.** The State's Enterprise-Wide Leader Competency Model (Leading Self, Leading Others, Leading the Organization, Leading Outside the Organization, Getting Work Done, with Leading with DEAI across them) is proposed as a fourth, shared frame so the program speaks the same language as MMB's Emerging Leaders Institute, Core programs, and Senior Leadership Institute. The research, the pathway crosswalk, and the related decisions, including the program's name, are in `MMB-LEADERSHIP-PROGRAMS-RESEARCH-2026-11-11.md`.
+
 **Whole-person purpose.** Examining one's own culture and defaults, especially for dominant-culture staff, carries the same weight in every pathway as service-delivery and team practice. The seventh capability is in every pathway, not only the first.
 
 **The cycle.** Learn, Reflect, Apply, Capture, Return. "Return" keeps the existing page's word in place of "Repeat": it is an invitation, not a loop someone must complete.
