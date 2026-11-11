@@ -96,7 +96,12 @@ Environment: local, Node 24.14.0, npm 11.9.0, static content source.
 | `tests/knowledge-tags.test.ts` | 13 of 13 passed |
 | ESLint on the new files | Passed |
 | TypeScript, whole project | Passed |
-| Full test suite | See the pull request for the run recorded with this change |
+| Full test suite, 232 files | 210 files passed, 4 skipped, 18 failed. 1,896 tests passed, 128 skipped, 3 failed |
+
+**The 18 failing files are not caused by this change.**
+
+- **16 are PostgreSQL integration suites.** Each failed at setup because a local test database could not be started in this environment (`initdb failed`). They did not reach their tests.
+- **3 tests fail on the unchanged main branch as well.** They were run there to confirm: `editable-surface-migration`, `page-copy-migration`, and `page-copy-full-chain`. They compare the site header and Home headline against pinned history, and differ on the program name (`programName`, and "Program" in the third headline line). That points to the recent program-name commits. They need their own fix and are not addressed here.
 
 One setup note: installing dependencies needed an optional GPU download to be skipped for one package, because this environment dropped the connection to its host. The CPU build, which the application uses, installed normally.
 
