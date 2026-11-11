@@ -22,7 +22,7 @@ export type ApprovalState = "candidate" | "eval" | "sandbox" | "pilot" | "approv
 
 export type ModelRecord = {
   model_id: string;
-  provider_id: "fixture" | "anthropic" | "openai" | "local";
+  provider_id: "fixture" | "anthropic" | "openai" | "openrouter" | "local";
   /** Provider-native identifier. Server-side only; never sent to clients. */
   provider_model_ref: string;
   display_name_internal: string;

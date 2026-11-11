@@ -9,6 +9,7 @@ import { flagEnabled } from "../registry/flags";
 import { getModel, isCallableInProduction, STAFF_GENERATION_MODEL_ID } from "../registry/models";
 import type { AgentDefinition, ModelRecord } from "../types";
 import { OpenAIAdapter } from "./openai";
+import { OpenRouterAdapter, openRouterModel } from "./openrouter";
 import { errorStatus, logProviderFailure, providerErrorExcerpt } from "./log";
 import { isIsolatedMemoryStore } from "../memory/store";
 
@@ -107,12 +108,15 @@ const PROVIDERS: Record<ModelRecord["provider_id"], ProviderAdapter> = {
   fixture: new FixtureProvider(),
   anthropic: new AnthropicProvider(),
   openai: new OpenAIAdapter(),
+  openrouter: new OpenRouterAdapter(),
 };
 
 function credentialPresent(provider: ModelRecord["provider_id"]): boolean {
   if (provider === "fixture") return true;
   if (provider === "anthropic") return Boolean(process.env.ANTHROPIC_API_KEY);
   if (provider === "openai") return Boolean(process.env.OPENAI_API_KEY);
+  // OpenRouter needs both a key and a named model; no model identifier is assumed in code.
+  if (provider === "openrouter") return Boolean(process.env.OPENROUTER_API_KEY?.trim() && openRouterModel());
   return false;
 }
 
@@ -142,30 +146,54 @@ export function resolveBinding(agent: AgentDefinition): Binding {
 
   let reasonCode: BindingReasonCode = "pilot_flag_off";
   if (flagEnabled("model.generative_pilot")) {
-    const candidate = candidatePilotModel(agent);
     reasonCode = "pilot_model_not_allowed";
-    if (candidate) {
+    // The first connected service in the configured order is used for this request.
+    // A failed request is reported as unavailable; it is not retried on another service.
+    for (const candidate of candidatePilotModels(agent)) {
       const adapter = PROVIDERS[candidate.provider_id];
       if (isCallableInProduction(candidate, flagEnabled) && credentialPresent(candidate.provider_id) && adapter.generative) {
-        return { model: candidate, adapter, generative: true, reason: "generative pilot flag on; pilot model callable; credential present", reasonCode: "generative_pilot" };
+        return { model: candidate, adapter, generative: true, reason: `generative pilot flag on; ${candidate.provider_id} callable; credential present`, reasonCode: "generative_pilot" };
       }
-      reasonCode = credentialPresent(candidate.provider_id) ? "pilot_model_not_callable" : "pilot_credential_missing";
+      if (reasonCode !== "pilot_model_not_callable") reasonCode = credentialPresent(candidate.provider_id) ? "pilot_model_not_callable" : "pilot_credential_missing";
     }
   }
   return { model: primary, adapter: PROVIDERS[primary.provider_id], generative: false, reason: "primary binding (fixture composer)", reasonCode };
 }
 
-function candidatePilotModel(agent: AgentDefinition): ModelRecord | undefined {
-  const pilot = getModel(STAFF_GENERATION_MODEL_ID);
-  if (!pilot) return undefined;
-  return pilot.allowed_agent_ids.includes(agent.agent_id) ? pilot : undefined;
+/** Reasoning services and the registered model each one uses. */
+const REASONING_MODELS = {
+  openai: STAFF_GENERATION_MODEL_ID,
+  anthropic: "mdl_claude_staff_primary",
+  openrouter: "mdl_openrouter_staff",
+} as const;
+export type ReasoningProviderId = keyof typeof REASONING_MODELS;
+export const DEFAULT_REASONING_ORDER: readonly ReasoningProviderId[] = ["openai", "anthropic", "openrouter"];
+
+/** The order from PAC_REASONING_PROVIDERS; unknown names are ignored and an empty result falls back to the default. */
+export function reasoningProviderOrder(): ReasoningProviderId[] {
+  const named = (process.env.PAC_REASONING_PROVIDERS ?? "").split(",").map(value => value.trim().toLowerCase())
+    .filter((value): value is ReasoningProviderId => Object.hasOwn(REASONING_MODELS, value));
+  const order = named.filter((value, index) => named.indexOf(value) === index);
+  return order.length ? order : [...DEFAULT_REASONING_ORDER];
+}
+
+function candidatePilotModels(agent: AgentDefinition): ModelRecord[] {
+  return reasoningProviderOrder().flatMap(provider => {
+    const model = getModel(REASONING_MODELS[provider]);
+    return model && model.allowed_agent_ids.includes(agent.agent_id) ? [model] : [];
+  });
+}
+
+/** Which reasoning services are connected, in the order they would be tried. Names only; no secret is read out. */
+export function reasoningConnections(): Array<{ provider: ReasoningProviderId; connected: boolean }> {
+  return reasoningProviderOrder().map(provider => ({ provider, connected: credentialPresent(provider) }));
 }
 
 export function generativeStatus(): { pilotFlag: boolean; credential: boolean; active: boolean } {
   const pilotFlag = flagEnabled("model.generative_pilot");
-  const credential = credentialPresent("openai");
-  const model = getModel(STAFF_GENERATION_MODEL_ID);
-  const callable = Boolean(model && isCallableInProduction(model, flagEnabled)
+  const candidates = reasoningProviderOrder().map(provider => getModel(REASONING_MODELS[provider])).filter((model): model is ModelRecord => Boolean(model));
+  const credential = candidates.some(model => credentialPresent(model.provider_id));
+  const callable = candidates.some(model => isCallableInProduction(model, flagEnabled)
     && PROVIDERS[model.provider_id].generative && credentialPresent(model.provider_id));
   return { pilotFlag, credential, active: pilotFlag && callable };
 }
