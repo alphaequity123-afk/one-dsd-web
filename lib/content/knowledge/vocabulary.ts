@@ -5,8 +5,8 @@
  * developmental work a resource addresses; it must not be used to label, score, gate,
  * or infer anything about a staff member.
  *
- * The competency list is the program's own and is proposed pending the owner's
- * confirmation. It is data: change it here and the validation tests follow.
+ * The competency list is the program's own. The owner confirmed it on November 11, 2026.
+ * It is data: change it here and the validation tests follow.
  */
 
 export const DOMAINS = [

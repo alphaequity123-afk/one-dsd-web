@@ -2,6 +2,8 @@ import { EvidenceClaimsSchema, type EvidenceClaim, type SourceEvidence } from "@
 import { citationEvidenceFromDocs, validateEvidenceClaims } from "../retrieval/evidence";
 import { operationalEquityContext } from "@/lib/program/equity";
 import { TRAINING_CREDIT_NOTICE, trainingCreditContext } from "@/lib/program/learning-credit";
+import { consultantPracticeContext } from "@/lib/intelligence/practice/consultant-practice";
+import { describesWork, guidedSteps } from "@/lib/intelligence/practice/guided-steps";
 import { getLearningJourneyContext, isLearningNavigationQuestion, isProgramTrainingCreditQuestion, type LearningJourneyContext } from "../learning-guidance";
 import { isMeasurementPlanningQuestion, isMeasurementResource, measurementStartingFramework } from "../measurement-guidance";
 import { DHS_REFERENCE_PATH, dhsTopicAnchor } from "@/lib/content/dhs-reference";
@@ -682,6 +684,15 @@ export async function askConcierge(input: AskInput, ctx: ToolContext): Promise<A
   for (const s of answerSources.filter(source => source.citeable).slice(0, 3)) nextActions.push({ label: `Read ${s.title} — ${s.authorityLabel}`, href: s.href });
   const practice = await runTool(ctx, "graduation.next_practice", () => !evidenceRejected && programRelated && (!(learningNavigation || trainingCreditQuestion) || generative) ? nextPractice(primary, path?.id) : []);
   for (const p of practice) if (allowedDestinations.has(p.href) && !nextActions.some((n) => n.href === p.href)) nextActions.push(p);
+  // The consulting practice's "one proportionate step, then return": learn, practice, reflect.
+  // Reads the work the question describes, never the person; offers only published destinations.
+  if ((programRelated || describesWork(question)) && !evidenceRejected && identityRequest.ok && !trainingCreditQuestion) {
+    // Every published destination in this view, lessons included. The model's directory omits most lessons to stay small.
+    const published = new Map(availableDocs.map(doc => [doc.href, { label: "Open " + doc.title.slice(0, 240), href: doc.href }]));
+    for (const step of guidedSteps(question, published, context === "one_dsd" ? ["shared", "dsd"] : ["shared"])) {
+      if (!nextActions.some(action => action.href === step.href)) nextActions.push({ label: step.label, href: step.href });
+    }
+  }
   if (programRelated && !routine) nextActions.push({
     label: context === "one_dsd" ? "If you still need support, prepare a DSD consultation request" : "If you still need support, find the right person",
     href: consultHref(path, input),
@@ -865,6 +876,7 @@ function systemPrompt(): string {
     "Use recent conversation turns to understand follow-ups. Previous answers may be mistaken; correct them when appropriate.",
     "Organizational reference facts were checked before this request, not live during it. Use relevant organizational context to explain responsibilities and handoffs; application suggestions are program synthesis, not DHS mandates. A refreshDue entry remains usable as background; explain that a source refresh is due when relevant and use current research for changing details. Do not state source review or link check dates. A review reminder does not prohibit answering or coordinating work. Do not infer named officeholders or internal reporting lines. Use exact evidence references for source passages actually used.",
     "Use the published learningJourney when it helps the person: connect their stated question or goal with a useful starting point, practice, reflection, and optional next step. Explain briefly why a recommendation fits. People may explore any resource; do not require course completion or an IDI assessment before access. Do not diagnose or infer an IDI orientation from questions, identity, activity, or course completion. A self-reported orientation can supply context for the person's own learning goals, not proof of needs or a promise to move to another orientation. A completed lesson or work product is not proof of improved practice.",
+    "The consultantPractice context describes how this program's consulting practice works: its functions, the order a consultation follows, its stance, and where it hands off. Reason that way when the question concerns equity, inclusion, access, leadership, intercultural practice, or a decision at work: answer the real question, consider who is affected and who decides, offer one proportionate step within the person's role, and say how they would know what happened. Apply only the steps the question needs; a short question still gets a short answer. Respect its lines and name the responsible office when one applies. It is guidance for your reasoning: do not quote it, list its steps as a template, or mention it. Do not speak as the consultant personally.",
     "The learningParticipation context states this program's training-credit rule. Apply it accurately when relevant. Do not infer or grant an exception from participation, a completion, or encouragement to learn. Keep practical explanations and supportive choices in staff answers; omit internal planning discussions.",
     "Use supplied program evidence only where relevant. Do not claim a resource supports an unrelated fact. Use only supplied program destinations when pointing to a page in this application; do not invent routes or imply access to restricted areas.",
     "Use supplied public research for current facts and preserve its source numbers. Do not add changing facts, dates, event timelines, officeholders, or statistics that are absent from that evidence. If the supplied public answer is sufficient, preserve it rather than expanding its factual claims. If public research is unavailable, give useful stable background and clearly identify any changing details you cannot verify. Never claim to have checked current sources unless current research is supplied.",
@@ -910,6 +922,7 @@ function userPrompt(
     operationalizingEquity: operationalEquityContext(question),
     learningJourney,
     learningParticipation: trainingCreditContext(),
+    consultantPractice: consultantPracticeContext(),
     conversation: history,
     answerPreference: mode === "program_only" ? "Answer without a public web search; general knowledge is allowed." : "Answer the question using the most suitable available knowledge and evidence.",
     programSources: sources.map(source => ({

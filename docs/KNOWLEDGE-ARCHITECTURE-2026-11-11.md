@@ -82,7 +82,7 @@ Three of the partial marks are cautious calls on thin evidence (a faith course's
 - **Course tags were produced from titles and lesson titles only**, by four agent passes working from one written rule set. No lesson body was read. The file records this: basis "titles", produced by "agent-first-pass", owner reviewed "false". A test fails if that record is changed without a review.
 - **Tags for paths, scenarios, stages, and tools** were written from each resource's own definition.
 - **Lessons are not yet tagged.** The 1,415 lessons still carry no tags of their own. That is stage two.
-- **The competency list is proposed.** It combines the five intercultural practices and the seven existing development capabilities with nine more. It is one data file; changing it is simple, and the tests follow.
+- **The competency list is confirmed.** The owner confirmed the 21 competencies on November 11, 2026. The tags that use them are still a first pass. It combines the five intercultural practices and the seven existing development capabilities with nine more. It is one data file; changing it is simple, and the tests follow.
 - **Sixteen courses had titles too thin to tag with confidence**, including several community profiles with generic lesson titles. They are tagged with a best fit and should be among the first reviewed.
 
 ---
